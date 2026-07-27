@@ -10,6 +10,7 @@ configs.
 from __future__ import annotations
 
 import argparse
+from datetime import datetime, timezone
 import json
 import os
 import socket
@@ -166,6 +167,7 @@ def generate_outputs(
         "countries": catalog.country_counts,
     }
     status_document = {
+        "updated_at_utc": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
         "summary": summary,
         "sources": [asdict(item) for item in statuses],
     }

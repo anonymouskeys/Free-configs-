@@ -55,19 +55,22 @@ jobs:
       - name: Download, normalize and aggregate
         run: python scripts/update_hub.py --output-dir output --timeout 25 --retries 3
 
-      - name: Commit changed outputs
+      - name: Generate dynamic README
+        run: python scripts/generate_readme.py --output-dir output --readme README.md
+
+      - name: Commit changed outputs and README
         shell: bash
         run: |
           set -Eeuo pipefail
 
-          if [[ -z "$(git status --porcelain -- output/)" ]]; then
-            echo "No output changes detected. Commit skipped."
+          if [[ -z "$(git status --porcelain -- output/ README.md)" ]]; then
+            echo "No generated changes detected. Commit skipped."
             exit 0
           fi
 
           git config user.name "free-configs-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -- output/
+          git add -- output/ README.md
           git commit -m "chore: update configs"
           git push
