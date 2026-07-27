@@ -827,7 +827,7 @@ trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=/assignment&se
 trojan://FC60532879@109.61.127.115:443?fp=chrome&path=/&sni=positive-bear.rooster465.autos&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@172.67.180.92:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://IQ68037294@193.169.239.162:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=distinct-ibex.rooster465.autos&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://XG59623478@89.39.70.159:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=upward-hedgehog.rooster465.autos&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://XG59623478@89.39.70.159:443?amp%3BallowInsecure=0&amp%3Bfp=chrome&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Bsni=upward-hedgehog.rooster465.autos&amp%3Btype=tcp&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?security=tls&sni=casual-bullfrog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://IQ68037294@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://IQ68037294@distinct-ibex.rooster465.autos:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=distinct-ibex.rooster465.autos&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -1306,6 +1306,7 @@ trojan://PD07395842@85.234.65.26:443?fp=chrome&path=/&sni=pro-crane.rooster465.a
 trojan://NQ26071394@87.121.33.201:443?sni=chief-antelope.rooster465.autos#%F0%9F%8C%8D%20Unknown%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://NQ26071394@87.121.33.68:443?fp=chrome&path=/&sni=wanted-marmoset.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://IQ68037294@89.39.70.143:443?fp=chrome&path=/&sni=thorough-falcon.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://XG59623478@89.39.70.159:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=upward-hedgehog.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://NQ26071394@89.39.70.85:443?fp=chrome&security=tls&sni=grateful-bedbug.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://NQ26071394@91.199.84.165:443?fp=chrome&path=/&sni=striking-cheetah.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://ON38567014@91.199.84.86:443?fp=chrome&path=/&sni=dynamic-grubworm.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
