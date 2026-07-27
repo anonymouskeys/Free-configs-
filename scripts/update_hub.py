@@ -21,7 +21,7 @@ from typing import Callable
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
-from normalize_configs import normalize_subscription
+from generate_outputs import build_catalog, write_catalog
 from subscription_parser import decode_subscription, parse_subscription
 
 SOURCE_LIMIT = 20
@@ -143,43 +143,33 @@ def process_source(
     )
 
 
-def atomic_write(path: Path, content: str) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    temporary = path.with_suffix(path.suffix + ".tmp")
-    temporary.write_text(content, encoding="utf-8", newline="\n")
-    temporary.replace(path)
-
-
 def generate_outputs(
     downloaded: list[DownloadedSource],
     statuses: list[SourceStatus],
     output_dir: Path,
-) -> dict[str, int]:
+) -> dict[str, object]:
     aggregate = "\n".join(item.payload for item in downloaded)
-    normalized = normalize_subscription(aggregate)
-    if not normalized.configs:
+    catalog = build_catalog(aggregate)
+    if not catalog.configs:
         raise RuntimeError("No normalized configurations were produced")
 
-    links = "\n".join(item.link for item in normalized.configs) + "\n"
-    atomic_write(output_dir / "all.txt", links)
-
-    summary = {
+    summary: dict[str, object] = {
         "configured_sources": len(statuses),
         "successful_sources": sum(1 for item in statuses if item.ok),
         "failed_sources": sum(1 for item in statuses if not item.ok),
-        "input_configs": normalized.input_count,
-        "final_configs": len(normalized.configs),
-        "duplicates_removed": normalized.duplicate_count,
-        "invalid_configs": normalized.issue_count,
+        "input_configs": catalog.input_count,
+        "final_configs": len(catalog.configs),
+        "duplicates_removed": catalog.duplicate_count,
+        "invalid_configs": catalog.issue_count,
+        "protocols": catalog.protocol_counts,
+        "transports": catalog.transport_counts,
+        "countries": catalog.country_counts,
     }
     status_document = {
         "summary": summary,
         "sources": [asdict(item) for item in statuses],
     }
-    atomic_write(
-        output_dir / "status.json",
-        json.dumps(status_document, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
-    )
+    write_catalog(catalog, output_dir, status_document)
     return summary
 
 
