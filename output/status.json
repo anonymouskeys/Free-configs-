@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "configs": 7445,
+      "configs": 7442,
       "ok": true,
       "source": "Source 01",
       "status": "ok"
@@ -13,7 +13,7 @@
       "status": "ok"
     },
     {
-      "configs": 2847,
+      "configs": 2680,
       "ok": true,
       "source": "Source 03",
       "status": "ok"
@@ -25,7 +25,7 @@
       "status": "ok"
     },
     {
-      "configs": 2701,
+      "configs": 2683,
       "ok": true,
       "source": "Source 05",
       "status": "ok"
@@ -45,10 +45,10 @@
   ],
   "summary": {
     "configured_sources": 7,
-    "duplicates_removed": 5216,
+    "duplicates_removed": 5152,
     "failed_sources": 0,
-    "final_configs": 50263,
-    "input_configs": 55479,
+    "final_configs": 50092,
+    "input_configs": 55244,
     "invalid_configs": 94,
     "successful_sources": 7
   }
