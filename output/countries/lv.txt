@@ -122,6 +122,7 @@ vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@46.8.230.113:2090?encryption=none&h
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.113:2090?type=tcp#%F0%9F%8C%90%20Latvia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.163:2090?alpn=http/1.1&encryption=none&fp=chrome&headerType=none&type=tcp#%F0%9F%8C%90%20Latvia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.63:2090?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Latvia%20%7C%20TCP%20%7C%20%40anonymouskeys
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.233.212:2090?amp%3Balpn=http/1.1&amp%3Bfp=chrome&type=raw#%F0%9F%8C%90%20Latvia%20%7C%20RAW%20%7C%20%40anonymouskeys
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.233.212:2090?alpn=http/1.1&encryption=none&fp=chrome&headerType=none&type=tcp#%F0%9F%8C%90%20Latvia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.236.3:2090?security=none&type=tcp#%F0%9F%8C%90%20Latvia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.237.6:2090?alpn=http/1.1&encryption=none&fp=chrome&headerType=none&type=tcp#%F0%9F%8C%90%20Latvia%20%7C%20TCP%20%7C%20%40anonymouskeys

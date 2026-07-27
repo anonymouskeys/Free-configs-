@@ -713,6 +713,7 @@ trojan://FC60532879@91.243.81.18:443?path=/&security=tls&sni=bright-quagga.roost
 trojan://AQ71834695@alert-monster.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AQ71834695@concise-lacewing.rooster465.autos:443?headerType=none&security=tls&sni=concise-lacewing.rooster465.autos&type=raw#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20RAW%20%7C%20%40anonymouskeys
 trojan://IQ68037294@flexible-pony.rooster465.autos:443?security=tls&sni=flexible-pony.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://AQ71834695@harmless-akita.rooster465.autos:443?headerType=none&security=tls&type=raw#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20RAW%20%7C%20%40anonymouskeys
 trojan://JT80563429@included-hedgehog.rooster465.autos:443?fp=chrome&security=tls&sni=included-hedgehog.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://JT80563429@inspired-hound.rooster465.autos:443?security=tls&sni=inspired-hound.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AQ71834695@integral-elf.rooster465.autos:443?headerType=none&security=tls&type=raw#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20RAW%20%7C%20%40anonymouskeys
@@ -826,7 +827,7 @@ trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=/assignment&se
 trojan://FC60532879@109.61.127.115:443?fp=chrome&path=/&sni=positive-bear.rooster465.autos&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@172.67.180.92:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://IQ68037294@193.169.239.162:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=distinct-ibex.rooster465.autos&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://XG59623478@89.39.70.159:443?amp%3BallowInsecure=0&amp%3Bfp=chrome&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Bsni=upward-hedgehog.rooster465.autos&amp%3Btype=tcp&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://XG59623478@89.39.70.159:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=upward-hedgehog.rooster465.autos&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?security=tls&sni=casual-bullfrog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://IQ68037294@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://IQ68037294@distinct-ibex.rooster465.autos:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=distinct-ibex.rooster465.autos&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -1166,7 +1167,7 @@ trojan://pk9Cl5J4dpSzj-.O21q0L@64.176.184.129:18756?headerType=none&security=tls
 trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?security=tls&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://521314@66.45.118.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://521314@77.105.163.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&sni=grape-ataturk-tr.yyuyy.com&type=trojan#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&sni=grape-ataturk-tr.yyuyy.com#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449/?fp=chrome&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?allowInsecure=0&fp=chrome&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://NQ26071394@79.133.126.190:443?fp=chrome&sni=renewed-phoenix.rooster465.autos#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -1305,7 +1306,6 @@ trojan://PD07395842@85.234.65.26:443?fp=chrome&path=/&sni=pro-crane.rooster465.a
 trojan://NQ26071394@87.121.33.201:443?sni=chief-antelope.rooster465.autos#%F0%9F%8C%8D%20Unknown%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://NQ26071394@87.121.33.68:443?fp=chrome&path=/&sni=wanted-marmoset.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://IQ68037294@89.39.70.143:443?fp=chrome&path=/&sni=thorough-falcon.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://XG59623478@89.39.70.159:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=upward-hedgehog.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://NQ26071394@89.39.70.85:443?fp=chrome&security=tls&sni=grateful-bedbug.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://NQ26071394@91.199.84.165:443?fp=chrome&path=/&sni=striking-cheetah.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://ON38567014@91.199.84.86:443?fp=chrome&path=/&sni=dynamic-grubworm.rooster465.autos&type=tcp#%F0%9F%8C%8D%20Unknown%20%7C%20TCP%20%7C%20%40anonymouskeys
