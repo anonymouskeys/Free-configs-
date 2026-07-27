@@ -1,0 +1,73 @@
+name: Update Free Configs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-free-configs
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SOURCE_SUB_01: ${{ secrets.SOURCE_SUB_01 }}
+      SOURCE_SUB_02: ${{ secrets.SOURCE_SUB_02 }}
+      SOURCE_SUB_03: ${{ secrets.SOURCE_SUB_03 }}
+      SOURCE_SUB_04: ${{ secrets.SOURCE_SUB_04 }}
+      SOURCE_SUB_05: ${{ secrets.SOURCE_SUB_05 }}
+      SOURCE_SUB_06: ${{ secrets.SOURCE_SUB_06 }}
+      SOURCE_SUB_07: ${{ secrets.SOURCE_SUB_07 }}
+      SOURCE_SUB_08: ${{ secrets.SOURCE_SUB_08 }}
+      SOURCE_SUB_09: ${{ secrets.SOURCE_SUB_09 }}
+      SOURCE_SUB_10: ${{ secrets.SOURCE_SUB_10 }}
+      SOURCE_SUB_11: ${{ secrets.SOURCE_SUB_11 }}
+      SOURCE_SUB_12: ${{ secrets.SOURCE_SUB_12 }}
+      SOURCE_SUB_13: ${{ secrets.SOURCE_SUB_13 }}
+      SOURCE_SUB_14: ${{ secrets.SOURCE_SUB_14 }}
+      SOURCE_SUB_15: ${{ secrets.SOURCE_SUB_15 }}
+      SOURCE_SUB_16: ${{ secrets.SOURCE_SUB_16 }}
+      SOURCE_SUB_17: ${{ secrets.SOURCE_SUB_17 }}
+      SOURCE_SUB_18: ${{ secrets.SOURCE_SUB_18 }}
+      SOURCE_SUB_19: ${{ secrets.SOURCE_SUB_19 }}
+      SOURCE_SUB_20: ${{ secrets.SOURCE_SUB_20 }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Download, normalize and aggregate
+        run: python scripts/update_hub.py --output-dir output --timeout 25 --retries 3
+
+      - name: Commit changed outputs
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+
+          if [[ -z "$(git status --porcelain -- output/)" ]]; then
+            echo "No output changes detected. Commit skipped."
+            exit 0
+          fi
+
+          git config user.name "free-configs-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -- output/
+          git commit -m "chore: update configs"
+          git push
