@@ -63,14 +63,25 @@ jobs:
         run: |
           set -Eeuo pipefail
 
-          if [[ -z "$(git status --porcelain -- output/ README.md)" ]]; then
+          test -s README.md
+          test -s output/all.txt
+          test -s output/status.json
+
+          git add -- output/ README.md
+
+          if git diff --cached --quiet; then
             echo "No generated changes detected. Commit skipped."
             exit 0
           fi
 
           git config user.name "free-configs-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update configs and README"
 
-          git add -- output/ README.md
-          git commit -m "chore: update configs"
-          git push
+          # A maintainer may push while this job is running. Rebase once and
+          # retry so scheduled updates do not fail with a non-fast-forward.
+          if ! git push origin "HEAD:${GITHUB_REF_NAME}"; then
+            echo "Remote branch changed; rebasing generated commit and retrying."
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
