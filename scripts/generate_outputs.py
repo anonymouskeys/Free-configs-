@@ -20,7 +20,7 @@ from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Iterable
 
-from normalize_configs import NormalizedConfig, normalize_config
+from normalize_configs import NormalizedConfig, normalize_config, normalize_transport
 from subscription_parser import ParsedConfig, parse_subscription
 
 COUNTRIES: dict[str, tuple[str, tuple[str, ...]]] = {
@@ -125,17 +125,10 @@ def detect_country(config: ParsedConfig) -> tuple[str, str]:
 
 
 def transport_buckets(config: NormalizedConfig) -> set[str]:
+    """Return only controlled bucket names; never derive filenames from raw labels."""
     buckets: set[str] = set()
-    transport = (config.transport or "").lower()
-    aliases = {
-        "websocket": "ws",
-        "http-upgrade": "httpupgrade",
-        "http_upgrade": "httpupgrade",
-    }
-    if transport:
-        buckets.add(aliases.get(transport, transport))
-    else:
-        buckets.add("unknown")
+    transport = normalize_transport(config.transport)
+    buckets.add(transport or "unknown")
 
     if config.security == "reality":
         buckets.add("reality")

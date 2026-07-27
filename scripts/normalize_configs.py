@@ -31,6 +31,17 @@ COUNTRY_NAMES = {
     "JP": "Japan", "SG": "Singapore", "TR": "Türkiye", "PL": "Poland",
     "SE": "Sweden", "CH": "Switzerland", "AT": "Austria",
 }
+KNOWN_TRANSPORTS = (
+    "httpupgrade", "splithttp", "xhttp", "grpc", "quic", "raw", "kcp",
+    "websocket", "ws", "http", "tcp",
+)
+TRANSPORT_ALIASES = {
+    "websocket": "ws",
+    "http-upgrade": "httpupgrade",
+    "http_upgrade": "httpupgrade",
+    "h2": "http",
+}
+
 LOWERCASE_QUERY_KEYS = {
     "type", "network", "security", "flow", "headerType", "encryption",
     "fp", "mode", "serviceName", "alpn", "packetEncoding",
@@ -78,10 +89,28 @@ def _country(code: str | None, name: str | None) -> tuple[str, str, str]:
     return normalized, name or COUNTRY_NAMES.get(normalized, normalized), COUNTRY_FLAGS.get(normalized, "🌐")
 
 
+def normalize_transport(value: str | None) -> str | None:
+    """Return a stable transport token and discard appended labels/advertising.
+
+    Some public lists contain malformed values such as ``type=tcp#channel`` or
+    ``type=ws<emoji>@channel``.  Prefix matching is intentional here: it repairs
+    the known transport token without allowing the remainder to become an output
+    filename.  Unknown values remain unclassified.
+    """
+    if not value:
+        return None
+    folded = unquote(str(value)).strip().casefold()
+    folded = TRANSPORT_ALIASES.get(folded, folded)
+    for token in KNOWN_TRANSPORTS:
+        if folded.startswith(token):
+            return TRANSPORT_ALIASES.get(token, token)
+    return None
+
+
 def feature_label(config: ParsedConfig) -> str:
     security = (config.security or "").lower()
     flow = (config.flow or "").lower()
-    transport = (config.transport or "").lower()
+    transport = normalize_transport(config.transport) or ""
     if security == "reality" and "vision" in flow:
         return "Reality Vision"
     if security == "reality":
@@ -107,7 +136,12 @@ def _normalized_query(query: str) -> str:
         value = value.strip()
         if not key or value == "":
             continue
-        if key in LOWERCASE_QUERY_KEYS:
+        if key in {"type", "network"}:
+            transport = normalize_transport(value)
+            if transport is None:
+                continue
+            value = transport
+        elif key in LOWERCASE_QUERY_KEYS:
             value = value.lower()
         pairs.append((key, value))
     pairs.sort(key=lambda item: (item[0].lower(), item[1]))
@@ -143,9 +177,14 @@ def _vmess_link(config: ParsedConfig, name: str) -> tuple[str, str]:
     normalized = dict(data)
     normalized["add"] = str(normalized.get("add", "")).strip().lower().rstrip(".")
     normalized["port"] = str(int(str(normalized.get("port", "0"))))
-    for key in ("net", "tls", "type", "scy"):
+    for key in ("tls", "type", "scy"):
         if key in normalized and isinstance(normalized[key], str):
             normalized[key] = normalized[key].strip().lower()
+    transport = normalize_transport(str(normalized.get("net", "")))
+    if transport:
+        normalized["net"] = transport
+    else:
+        normalized.pop("net", None)
     normalized["ps"] = name
 
     fingerprint_data = dict(normalized)
@@ -200,7 +239,7 @@ def normalize_config(config: ParsedConfig, country_code: str | None = None, coun
         fingerprint=fingerprint,
         host=config.host.lower().rstrip(".") if config.host else None,
         port=config.port,
-        transport=config.transport.lower() if config.transport else None,
+        transport=normalize_transport(config.transport),
         security=config.security.lower() if config.security else None,
         flow=config.flow,
         feature=feature_label(config),

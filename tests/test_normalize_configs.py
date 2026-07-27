@@ -76,6 +76,34 @@ class NormalizationTests(unittest.TestCase):
         self.assertEqual(1, len(result.configs))
         self.assertEqual(1, result.issue_count)
 
+    def test_malformed_transport_is_cleaned_and_name_is_rebranded(self) -> None:
+        payload = (
+            "vless://id@example.com:443?security=reality&"
+            "type=tcp%23%F0%9F%92%A190%40oneclickvpnkeys#Foreign%20channel"
+        )
+        result = normalize_subscription(payload)
+        self.assertEqual(1, len(result.configs))
+        item = result.configs[0]
+        self.assertEqual("tcp", item.transport)
+        parsed = urlsplit(item.link)
+        self.assertIn("type=tcp", parsed.query)
+        self.assertNotIn("oneclickvpnkeys", unquote(item.link).lower())
+        self.assertEqual("🌍 Unknown | Reality | @anonymouskeys", unquote(parsed.fragment))
+
+    def test_vmess_malformed_net_is_cleaned_and_ps_is_rebranded(self) -> None:
+        data = {
+            "v": "2", "ps": "@foreign", "add": "example.com", "port": "443",
+            "id": "00000000-0000-0000-0000-000000000001",
+            "aid": "0", "net": "ws📪66@oneclickvpnkeys", "tls": "tls"
+        }
+        result = normalize_subscription("vmess://" + b64(json.dumps(data)))
+        encoded = result.configs[0].link[len("vmess://"): ]
+        decoded = base64.urlsafe_b64decode(encoded + "=" * (-len(encoded) % 4)).decode()
+        normalized = json.loads(decoded)
+        self.assertEqual("ws", normalized["net"])
+        self.assertEqual("🌍 Unknown | WebSocket | @anonymouskeys", normalized["ps"])
+        self.assertNotIn("oneclickvpnkeys", decoded.lower())
+
 
 if __name__ == "__main__":
     unittest.main()

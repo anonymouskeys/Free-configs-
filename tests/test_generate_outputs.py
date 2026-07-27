@@ -63,6 +63,20 @@ class GeneratorTests(unittest.TestCase):
             self.assertFalse((output / "stale.txt").exists())
             self.assertEqual(2, json.loads((output / "status.json").read_text())["summary"]["final_configs"])
 
+    def test_malformed_transport_cannot_become_a_filename(self) -> None:
+        payload = (
+            "vless://id@example.com:443?"
+            "type=tcp%23%F0%9F%92%A190%40oneclickvpnkeys#Foreign"
+        )
+        catalog = build_catalog(payload)
+        self.assertEqual({"tcp": 1}, catalog.transport_counts)
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory) / "output"
+            write_catalog(catalog, output, {"summary": {}, "sources": []})
+            names = {path.name for path in (output / "transport").iterdir()}
+            self.assertEqual({"tcp.txt"}, names)
+            self.assertNotIn("oneclickvpnkeys", (output / "all.txt").read_text().lower())
+
 
 if __name__ == "__main__":
     unittest.main()
