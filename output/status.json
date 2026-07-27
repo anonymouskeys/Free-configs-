@@ -1,0 +1,55 @@
+{
+  "sources": [
+    {
+      "configs": 7445,
+      "ok": true,
+      "source": "Source 01",
+      "status": "ok"
+    },
+    {
+      "configs": 325,
+      "ok": true,
+      "source": "Source 02",
+      "status": "ok"
+    },
+    {
+      "configs": 2847,
+      "ok": true,
+      "source": "Source 03",
+      "status": "ok"
+    },
+    {
+      "configs": 500,
+      "ok": true,
+      "source": "Source 04",
+      "status": "ok"
+    },
+    {
+      "configs": 2701,
+      "ok": true,
+      "source": "Source 05",
+      "status": "ok"
+    },
+    {
+      "configs": 8138,
+      "ok": true,
+      "source": "Source 06",
+      "status": "ok"
+    },
+    {
+      "configs": 36291,
+      "ok": true,
+      "source": "Source 07",
+      "status": "ok"
+    }
+  ],
+  "summary": {
+    "configured_sources": 7,
+    "duplicates_removed": 5216,
+    "failed_sources": 0,
+    "final_configs": 50263,
+    "input_configs": 55479,
+    "invalid_configs": 94,
+    "successful_sources": 7
+  }
+}
