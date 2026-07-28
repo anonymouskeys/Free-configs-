@@ -3,7 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZWx3dlU5bVVSMG9yRUZTNUQ2dTdB@194.54.80.37:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#%F0%9F%8C%90%20Ukraine%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmFsTDBNeUxnZUkwPQ@91.186.193.46:56985#%F0%9F%8C%90%20Ukraine%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.218.49.99:1080#%F0%9F%8C%90%20Ukraine%20%7C%20SS%20%7C%20%40anonymouskeys
-trojan://521314@166.62.106.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip%3DTelegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+trojan://521314@166.62.106.27:443?path=/pyip%3DTelegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://FC60532879@185.14.47.13:443?fp=chrome&path=/&sni=relaxed-gull.rooster465.autos&type=tcp#%F0%9F%8C%90%20Ukraine%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FC60532879@194.99.79.189:443?fp=chrome&path=/&sni=humorous-parakeet.rooster465.autos&type=tcp#%F0%9F%8C%90%20Ukraine%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://521314@45.131.5.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip%3DTelegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -14,7 +14,7 @@ trojan://521314@89.117.112.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip%3DTelegra
 trojan://IQ68037294@91.243.81.69:443?allowInsecure=0&sni=proud-escargot.rooster465.autos#%F0%9F%8C%90%20Ukraine%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://34ad014b-23dd-438b-9e5f-d2994578033f@103.35.189.146:443?encryption=none&path=/yebnszws&security=tls&sni=ya.ru&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.18.205.156:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=index.arcane509.workers.dev&path=/4akspsofhsbt&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://5659b42c-636f-4563-ac41-87d565d0dd1e@104.21.224.5:8880?encryption=none&host=autumn-base-0eb9.116-d25.workers.dev&packetEncoding=xudp&path=/pyip%3DProxyIP.JP.autumniussss.net&security=none&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.21.224.5:2096?encryption=none&fp=chrome&security=tls&sni=gaosir.unfeeling.sbs&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://90235096-9296-3d36-c77c-715577598fd5@104.21.69.115:443?ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&security=tls&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&fp=firefox&host=fhfhfhf.kathykroger.workers.dev&path=/&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#%F0%9F%8C%90%20Ukraine%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.131.194:4443?security=none&type=grpc#%F0%9F%8C%90%20Ukraine%20%7C%20gRPC%20%7C%20%40anonymouskeys
