@@ -1,6 +1,7 @@
+trojan://BxceQaOe@43.198.12.180:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://bpb-trojan@vless.herogoing.top:443?host=vless.herogoing.top&path=/tr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.40.152:2087?fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ako.pagate.top&type=tcp#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20TCP%20%7C%20%40anonymouskeys
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=ako.pagate.top&type=raw#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20RAW%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.64.11:80?host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.140.11:80?host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.105:2053?encryption=none&fp=chrome&host=forfreeuse.sub-flow.online&path=/&security=tls&sni=forfreeuse.sub-flow.online&type=ws#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20WebSocket%20%7C%20%40anonymouskeys
