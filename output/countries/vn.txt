@@ -1,6 +1,6 @@
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#%F0%9F%8C%90%20Vietnam%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=5.255.102.165#%F0%9F%8C%90%20Vietnam%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.238:8443?insecure=1&sni=grape-power-pl.ddnsguru.com#%F0%9F%8C%90%20Vietnam%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1#%F0%9F%8C%90%20Vietnam%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.238:8443?sni=grape-power-pl.ddnsguru.com#%F0%9F%8C%90%20Vietnam%20%7C%20QUIC%20%7C%20%40anonymouskeys
 trojan://52171d41-9367-429f-baa6-43660a6c84e4@103.195.236.24:443?alpn=http/1.1&fp=chrome&security=tls&sni=103.195.236.24&type=tcp#%F0%9F%8C%90%20Vietnam%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://521314@185.162.229.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip%3DTelegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8C%90%20Vietnam%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://8619e4c1-0984-4dce-83e3-419e2d7f5079@109.120.189.252:4241?amp%3Bencryption=none&amp%3Bflow=xtls-rprx-vision&amp%3BheaderType=none&amp%3Bpbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&amp%3Bsid=111111&amp%3Bsni=eh.vk.com&amp%3Btype=tcp&security=reality#%F0%9F%8C%90%20Vietnam%20%7C%20Reality%20%7C%20%40anonymouskeys
