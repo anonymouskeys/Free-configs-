@@ -3,6 +3,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%F0%9F%8C%90%20Argentina%
 ss://YWVzLTI1Ni1nY206OTQ1NzFkNjItYTIzZi0zNjRlLTgwNjUtMmE3NDBiMzQyMjE2@s.8.p.f.r.a.g.3.b.ar01-ae5.entry.v51124-1.qpon:20025#%F0%9F%8C%90%20Argentina%20%7C%20SS%20%7C%20%40anonymouskeys
 vless://warning@0.0.0.0:1?flow=xtls-rprx-vision&fp=chrome&pbk=dE3wtv44FXcZGAp0MYiYYa79z_JlcVNmPN5t8qa0cTs&security=reality&sid=d3&sni=zieng2.org&spx=/&type=tcp#%F0%9F%8C%90%20Argentina%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@103.161.237.54:443?fp=chrome&security=tls&sni=vod.ensf.top&type=ws#%F0%9F%8C%90%20Argentina%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.162.119:8882?encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20Argentina%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?encryption=none&host=abriconf.global.ssl.fastly.net&mode=auto&path=/cdn/assets%3F&security=none&type=xhttp#%F0%9F%8C%90%20Argentina%20%7C%20XHTTP%20%7C%20%40anonymouskeys
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@149.33.19.136:2053?fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#%F0%9F%8C%90%20Argentina%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.216.11:80/?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20Argentina%20%7C%20WebSocket%20%7C%20%40anonymouskeys
