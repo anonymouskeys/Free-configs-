@@ -205,5 +205,4 @@ vless://0f6b71eb-82fd-42bc-cc24-625ec0422559@49.13.21.245:80?amp%3Bencryption=no
 vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@51.250.108.255:443?fp=chrome&pbk=pICukbHNhdEWGILPC2Mhw3SeR8bYQj75HckCrLcRhyE&security=reality&sni=ads.x5.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://0fccbf30-7e79-455b-a756-548f9ba43ec2@api1.hexogate.net:80?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://9b7388b9-8c8c-4a86-b518-da32df36e6c6@fig.sorixset.ir:60231?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
-vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s1.pro-vip-cnavippanel.xyz:4568?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://99f8d05e-902d-4f34-85d1-127bc32aa9b8@s7.cnavippanel-tech-ips.xyz:8090?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
