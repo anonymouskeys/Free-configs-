@@ -1,7 +1,6 @@
 vless://d43b45a6-9f69-44d9-8872-862c885e27c9@168.119.169.184:8443?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://88888888-8888-8888-8888-888888888888@172.65.111.43:22?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@172.65.111.43:22?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
-vless://d38fb586-bec2-4892-f774-7789068e32d5@191.101.130.131:38001?packet-encoding=xudp&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.0:80?host=monopoli.global.ssl.fastly.net&path=/%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.1:80?host=monopoli.global.ssl.fastly.net&path=/%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.100:80?host=monopoli.global.ssl.fastly.net&path=/%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
@@ -204,4 +203,7 @@ vless://1137e52b-c956-4eca-b6cb-8589ef88b113@49.13.21.245:80?amp%3Bencryption=no
 vless://0f6b71eb-82fd-42bc-cc24-625ec0422559@49.13.21.245:80?amp%3Bencryption=none&amp%3Bfp=firefox&amp%3Bpath=/&amp%3Bpbk=gKIVreffEl3N7FdjgjNHeg2v-SwzgqzVZHJOmYbVEzM&amp%3Bsecurity=reality&amp%3Bsid=6c&amp%3Bsni=discord.com&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@51.250.108.255:443?fp=chrome&pbk=pICukbHNhdEWGILPC2Mhw3SeR8bYQj75HckCrLcRhyE&security=reality&sni=ads.x5.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://0fccbf30-7e79-455b-a756-548f9ba43ec2@api1.hexogate.net:80?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://0671a383-81d9-40d4-84f4-0e44ff30c2ca@best.athforce.ir:2214?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://9b7388b9-8c8c-4a86-b518-da32df36e6c6@fig.sorixset.ir:60231?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://ddfe43fe-7b67-4606-b0d4-4e5339abab5d@tr1.soundfiy.ir:61169?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://ddfe43fe-7b67-4606-b0d4-4e5339abab5d@tr2.soundfiy.ir:61169?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
