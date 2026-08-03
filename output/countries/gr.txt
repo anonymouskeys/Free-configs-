@@ -1,4 +1,4 @@
-hysteria2://57ad54a0-59ca-4553-bdad-35aab6bd3aa5@104.36.86.93:9992?insecure=1#%F0%9F%8C%90%20Greece%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://57ad54a0-59ca-4553-bdad-35aab6bd3aa5@104.36.86.93:9992?insecure=1&sni=104.36.86.93#%F0%9F%8C%90%20Greece%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://433def7c1a6e432e8a1ced81e966fe9e@64.188.64.204:443?fp=chrome&security=tls&sni=ge2.skydrgn.xyz#%F0%9F%8C%90%20Greece%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#%F0%9F%8C%90%20Greece%20%7C%20QUIC%20%7C%20%40anonymouskeys
 trojan://humanity@104.17.111.3:443?path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Greece%20%7C%20WebSocket%20%7C%20%40anonymouskeys
