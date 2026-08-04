@@ -5,7 +5,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.114.238
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#%F0%9F%8C%90%20India%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://ND91608427@13.36.175.151:443?fp=chrome&sni=classic-gator.rooster465.autos&type=tcp#%F0%9F%8C%90%20India%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/%3Fed&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://ND91608427@43.207.89.29:443?allowInsecure=1&sni=relaxing-bluebird.rooster465.autos&type=tcp#%F0%9F%8C%90%20India%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://ND91608427@43.207.89.29:443?allowInsecure=1&fp=chrome&sni=relaxing-bluebird.rooster465.autos&type=tcp#%F0%9F%8C%90%20India%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://497631c4-a1a4-004d-a86a-f42873473bb6@102.68.86.223:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%8C%90%20India%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?encryption=none&fp=chrome&host=ad-010.vector2llqn.info&path=/&security=tls&sni=ad-010.vector2llqn.info&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.47.38:8443?fp=chrome&security=tls&sni=ad-005.flux3ni5o.info&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
