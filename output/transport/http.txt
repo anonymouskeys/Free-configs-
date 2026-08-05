@@ -203,6 +203,5 @@ vless://1137e52b-c956-4eca-b6cb-8589ef88b113@49.13.21.245:80?amp%3Bencryption=no
 vless://0f6b71eb-82fd-42bc-cc24-625ec0422559@49.13.21.245:80?amp%3Bencryption=none&amp%3Bfp=firefox&amp%3Bpath=/&amp%3Bpbk=gKIVreffEl3N7FdjgjNHeg2v-SwzgqzVZHJOmYbVEzM&amp%3Bsecurity=reality&amp%3Bsid=6c&amp%3Bsni=discord.com&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@51.250.108.255:443?fp=chrome&pbk=pICukbHNhdEWGILPC2Mhw3SeR8bYQj75HckCrLcRhyE&security=reality&sni=ads.x5.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://0fccbf30-7e79-455b-a756-548f9ba43ec2@api1.hexogate.net:80?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
-vless://9b7388b9-8c8c-4a86-b518-da32df36e6c6@fig.sorixset.ir:60231?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://ddfe43fe-7b67-4606-b0d4-4e5339abab5d@tr2.soundfiy.ir:61169?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://c998b565-38c7-4bee-a833-d8b479bf5180@u.cafeplusserver.ir:25239?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys

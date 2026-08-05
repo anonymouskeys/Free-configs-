@@ -1,5 +1,5 @@
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%F0%9F%8C%90%20Moldova%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1#%F0%9F%8C%90%20Moldova%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc#%F0%9F%8C%90%20Moldova%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@168.138.246.189:59319#%F0%9F%8C%90%20Moldova%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%F0%9F%8C%90%20Moldova%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://ND91608427@35.72.13.34:443?allowInsecure=1&fp=chrome&sni=casual-bee.rooster465.autos&type=tcp#%F0%9F%8C%90%20Moldova%20%7C%20TCP%20%7C%20%40anonymouskeys
