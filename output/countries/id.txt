@@ -1,7 +1,7 @@
 trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Indonesia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?alpn=http/1.1&fp=chrome&security=tls&type=tcp#%F0%9F%8C%90%20Indonesia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@216.24.57.7:443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Indonesia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://ND91608427@54.199.202.238:443?allowInsecure=1&sni=definite-sturgeon.rooster465.autos#%F0%9F%8C%90%20Indonesia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://ND91608427@54.199.202.238:443?allowInsecure=1&fp=chrome&sni=definite-sturgeon.rooster465.autos&type=tcp#%F0%9F%8C%90%20Indonesia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@103.17.193.224:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=id.fasti.win&type=tcp#%F0%9F%8C%90%20Indonesia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?allowInsecure=0&encryption=none&host=shegeftihaaa.net&insecure=0&path=/rsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%F0%9F%8C%90%20Indonesia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://d7a8ae86-9904-4f71-8fe4-d754ded610d7@104.21.11.152:8080?encryption=none&host=server6.diwir81236.workers.dev&path=/eyJqdW5rIjoiOHNqQ3Bqc2dTZlppTEl1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560&security=none&type=ws#%F0%9F%8C%90%20Indonesia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
