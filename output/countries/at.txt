@@ -1,6 +1,5 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206L2g1QXdhQVJOWHdoVmtKNjVxT2JxR1pVTGhlUXhEQ0cwdEZCcXlmZG9CUT06K05QbnZNazBGdUdRU3NzamxsV0FLbzFNck96S2ZqWllwdm4xUTFjU0VMST0@62.60.238.19:17983#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206KzREUXhCTDVVY05pWi9DenZvOG1VR3RhZzljNnNOajVMTFJ0QmM3YVk0UT06OUdsNUVHWnlYMGNvaVR3NUxhaHE1TTF6dTVzejNqTWZVSHpCMEFpVjFOUT0@62.60.238.19:31682#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20SS%20%7C%20%40anonymouskeys
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://ND91608427@3.36.131.218:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://oq8I4Asc0g@94.228.162.57:13600?fp=chrome&headerType=none&pbk=2Q30b4vfqIAmh50tv63a7zhrrYdHlncre-ooK7Vtz1M&security=reality&sid=9dbc497c9b1e76ae&sni=www.tesla.com&spx=/&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Reality%20%7C%20%40anonymouskeys
 trojan://BKvz1AHxyv@94.228.162.57:14276?fp=chrome&headerType=none&pbk=bnu9uRD1csljUwbra_hLJjyICUmg8yuXWHKRqh-9sns&security=reality&sid=9c&sni=www.intel.com&spx=/&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Reality%20%7C%20%40anonymouskeys
