@@ -1,6 +1,6 @@
 hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447/?sni=devideo.h2corp.org#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#%F0%9F%8C%90%20Romania%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%F0%9F%8C%90%20Romania%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://Bdj2W.Z0=UaM1IYzhO5TR76Jx@192.248.187.65:15505?headerType=none&security=tls&sni=ads.x5.ru&type=tcp#%F0%9F%8C%90%20Romania%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -36,7 +36,7 @@ vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@79.108.161.101:443?flow=xtls-rprx-v
 vless://0dae4203-7a03-4923-8244-1d56a53c6e00@84.201.156.73:9443?allowInsecure=0&alpn=h2,http/1.1&encryption=none&fp=chrome&host=yandex-tunnel.catlove.qzz.io&insecure=0&path=/nginx-api/cat&security=tls&sni=yandex-tunnel.catlove.qzz.io&type=ws#%F0%9F%8C%90%20Romania%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?encryption=none&fp=chrome&headerType=none&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&security=reality&serviceName=grpc&sid=1dbf8a58bc15d4b0&sni=tesla.com&type=grpc#%F0%9F%8C%90%20Romania%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?fp=firefox&mode=gun&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&security=reality&serviceName=grpc&sid=1dbf8a58bc15d4b0&sni=tesla.com&type=grpc#%F0%9F%8C%90%20Romania%20%7C%20Reality%20%7C%20%40anonymouskeys
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.136:2096?allowInsecure=0&encryption=none&fp=android&host=free-server.techsonic.dev&insecure=0&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%8C%90%20Romania%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.136:2096?fp=safari&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%8C%90%20Romania%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.251:2053?fp=chrome&security=tls&sni=vlso6.1d.mom&type=ws#%F0%9F%8C%90%20Romania%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@93.114.194.131:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&security=reality&sid=247fd6dab1a34a48&sni=web.max.ru&type=tcp#%F0%9F%8C%90%20Romania%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.cloud25075.info:8443?fp=chrome&headerType=none&host=ad-004.cloud25075.info&path=/&security=tls&sni=ad-004.cloud25075.info&type=ws#%F0%9F%8C%90%20Romania%20%7C%20WebSocket%20%7C%20%40anonymouskeys
