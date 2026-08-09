@@ -1,4 +1,4 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443?downmbps=50&insecure=1&sni=t.me&type=tcp&upmbps=10#%F0%9F%8C%90%20Moldova%20%7C%20TCP%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&sni=https://t.me/clashv8%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%90%20Moldova%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc#%F0%9F%8C%90%20Moldova%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.231.162.164:443#%F0%9F%8C%90%20Moldova%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%F0%9F%8C%90%20Moldova%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -16,7 +16,7 @@ vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&flow=xtls-rprx-vision&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=mold.speedload.online&type=tcp#%F0%9F%8C%90%20Moldova%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.161.63:22224?path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#%F0%9F%8C%90%20Moldova%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&security=reality&sid=f7223dab&sni=www.icloud.com&type=tcp#%F0%9F%8C%90%20Moldova%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?fp=chrome&security=tls&sni=music1000.melobitmusic1.ir&type=ws#%F0%9F%8C%90%20Moldova%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?alpn=h2,http/1.1&encryption=none&fp=chrome&host=music1000.melobitmusic1.ir&path=/&security=tls&sni=music1000.melobitmusic1.ir&type=ws#%F0%9F%8C%90%20Moldova%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@176.123.2.210:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zT7a-PnmIWP4c-G1EDUT3KZ7URi1kc8EppAWPr3h5lk&security=reality&sid=afeed89ae23b36ed&sni=rezerv23.yunus.guru&type=tcp#%F0%9F%8C%90%20Moldova%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://e04ab105-c05f-49b9-8e6b-4a5f7d34301d@185.103.167.76:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=cYwrRCz_hKgT_JE8WywuLE3XOkAEqCTuBiUvXAaEjn8&security=reality&sid=694ee64512cfcbef&sni=999.md&type=tcp#%F0%9F%8C%90%20Moldova%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://529cd8b2-0432-4fe7-80a2-89076c818f25@185.118.15.160:2095?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20Moldova%20%7C%20TCP%20%7C%20%40anonymouskeys
