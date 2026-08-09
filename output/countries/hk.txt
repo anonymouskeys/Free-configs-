@@ -1,7 +1,6 @@
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?allowInsecure=1&downmbps=50&insecure=1&sni=vk.com&type=tcp&upmbps=10#%F0%9F%8C%90%20Hong%20Kong%20%7C%20TCP%20%7C%20%40anonymouskeys
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443?sni=mercedes-grape.yyuyy.com#%F0%9F%8C%90%20Hong%20Kong%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#%F0%9F%8C%90%20Hong%20Kong%20%7C%20SS%20%7C%20%40anonymouskeys
-ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@172.67.132.246:443#%F0%9F%8C%90%20Hong%20Kong%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@18.167.109.29:19000#%F0%9F%8C%90%20Hong%20Kong%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206V1dNbzhGTVhOR0xz@212.192.15.13:8388#%F0%9F%8C%90%20Hong%20Kong%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.33:10910#%F0%9F%8C%90%20Hong%20Kong%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -13,10 +12,8 @@ trojan://humanity@80.77.25.142:443?allowInsecure=0&host=www.calmlunch.com&insecu
 trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#%F0%9F%8C%90%20Hong%20Kong%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?amp%3Bsni=dynamic-grubworm.rooster465.autos&security=tls#%F0%9F%8C%90%20Hong%20Kong%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%F0%9F%8C%90%20Hong%20Kong%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://ND91608427@upright-hamster.rooster465.autos:443?security=tls&sni=upright-hamster.rooster465.autos#%F0%9F%8C%90%20Hong%20Kong%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@upright-hamster.rooster465.autos:443?amp%3Bsni=upright-hamster.rooster465.autos&security=tls#%F0%9F%8C%90%20Hong%20Kong%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.242.2.214:8443?allowInsecure=0&encryption=none&fp=chrome&host=rubifen.adaspoloandco.com&insecure=0&path=/GOrbEh&security=tls&sni=rubifen.adaspoloandco.com&type=ws#%F0%9F%8C%90%20Hong%20Kong%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#%F0%9F%8C%90%20Hong%20Kong%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://bceda826-c83c-45d0-891e-15c4bfec76bc@104.171.134.235:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#%F0%9F%8C%90%20Hong%20Kong%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://a484645e-59df-4980-b649-92b71250ec60@104.171.137.148:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#%F0%9F%8C%90%20Hong%20Kong%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://43874ef1-1f74-4b8b-bc84-1d13caabd71b@104.171.137.176:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#%F0%9F%8C%90%20Hong%20Kong%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -28,7 +25,6 @@ vless://74199cb4-6d12-404a-9529-14de3bffec9c@141.11.76.57:21001?encryption=none&
 vless://ffa47a32-96bb-48b2-8952-874cef57d53f@141.11.76.57:21001?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%F0%9F%8C%90%20Hong%20Kong%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://1560c7cd-600b-424b-ad99-f47cad3bea6a@141.11.76.57:21001?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%F0%9F%8C%90%20Hong%20Kong%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://863473c2-99e3-4444-a4c9-665ec86757f1@141.11.76.57:21001?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%F0%9F%8C%90%20Hong%20Kong%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://83d8a426-3f6a-49b0-8e00-5f5f45f9ff30@141.11.76.57:21001?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%F0%9F%8C%90%20Hong%20Kong%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://6bf7d47a-db65-4ad5-a5ea-5df916b7e41b@141.11.76.57:21001?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%F0%9F%8C%90%20Hong%20Kong%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@147.45.47.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=gb.sellflow.org&type=tcp#%F0%9F%8C%90%20Hong%20Kong%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%8C%90%20Hong%20Kong%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys

@@ -2,8 +2,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%F0%9F%8C%90%20Israel%20%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%F0%9F%8C%90%20Israel%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@5.188.181.201:9019#%F0%9F%8C%90%20Israel%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?amp%3BheaderType=none&amp%3Bsni=api.avito.ru&amp%3Btype=tcp&security=tls#%F0%9F%8C%90%20Israel%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://humanity@172.64.152.23:443?Host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Israel%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://humanity@2.144.21.112:40443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Israel%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+trojan://ND91608427@3.35.140.99:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#%F0%9F%8C%90%20Israel%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://F42UEtSEue3xZeeomz%2FBnvE8zoS4RiuHzNHD+q1MWjg=@64.177.65.95:43493?fp=chrome&headerType=none&pbk=wQYwwDqJYcFwb0tBON7-ggw8pO1DZ7ven_AjRvPIzBU&security=reality&sid=782c47f2a34f&sni=intel.com&spx=/PlPePIGEEFMNkJX&type=tcp#%F0%9F%8C%90%20Israel%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://7f47fd09-a30d-4d5e-a758-55d1cbf95a44@103.88.241.158:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&security=reality&sid=30531914bddc70c8&sni=hello.opengate.tech&type=tcp#%F0%9F%8C%90%20Israel%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?fp=chrome&security=tls&sni=germany-2.ariyuz.org&type=ws#%F0%9F%8C%90%20Israel%20%7C%20WebSocket%20%7C%20%40anonymouskeys
