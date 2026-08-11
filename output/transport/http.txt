@@ -1,1 +1,1 @@
-vless://ff527822-be9c-5c11-8519-45b8cc4c644a@144.124.226.216:443?encryption=none&fp=chrome&mode=auto&path=/&pbk=JkU5Vn1pM0jelR62NIqNwbE-b6Xs4kx-Vc6F-qNq1Fo&security=reality&sid=60e335610b12b2cc&sni=ozon.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
+vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?encryption=none&fp=chrome&path=/dF6yXt9bRj3Lh2qVp7Nw&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
