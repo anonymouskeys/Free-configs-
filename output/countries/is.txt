@@ -6,7 +6,7 @@ trojan://humanity@104.16.73.213:443?allowInsecure=0&fp=chrome&insecure=0&path=/a
 trojan://humanity@2.144.15.223:40443?allowInsecure=1&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?security=tls&sni=37.235.49.118&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?amp%3BallowInsecure=0&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Btype=tcp&security=tls#%F0%9F%8C%90%20Iceland%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#%F0%9F%8C%90%20Iceland%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://ND91608427@43.203.203.244:443?allow_insecure=0&fp=chrome&headerType=none&path=/&security=tls&sni=main-whippet.rooster465.autos&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@45.130.125.160:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.129.165.238:2096?encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.145.254:443?alpn=h2&encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&type=grpc#%F0%9F%8C%90%20Iceland%20%7C%20gRPC%20%7C%20%40anonymouskeys

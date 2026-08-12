@@ -1,4 +1,4 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8C%90%20Thailand%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443?allowInsecure=1&downmbps=50&insecure=1&sni=speedtest.tinkoff.ru&type=tcp&upmbps=10#%F0%9F%8C%90%20Thailand%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@104.17.121.71:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Thailand%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&sni=157.85.102.28&type=raw#%F0%9F%8C%90%20Thailand%20%7C%20RAW%20%7C%20%40anonymouskeys
 trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Thailand%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -30,6 +30,7 @@ vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@212.233.97.156:443?encryption=none&
 vless://6d3d21ef-b24a-4932-8393-7efc90c3d89c@212.34.142.191:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=808e2d36726ee97e&sni=m.vk.com&type=raw#%F0%9F%8C%90%20Thailand%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Thailand%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.122.121.39:22222?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Thailand%20%7C%20TCP%20%7C%20%40anonymouskeys
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.162.103.97:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#%F0%9F%8C%90%20Thailand%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.149.85:8443?encryption=none&host=1-bhn.pages.dev&security=tls&sni=1-bhn.pages.dev&type=ws#%F0%9F%8C%90%20Thailand%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://ef21f8f2-a132-4e3a-adc1-20c632c4783d@31.14.123.90:6000?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Thailand%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?encryption=none&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&security=reality&sid=3c&sni=yahoo.com&type=tcp#%F0%9F%8C%90%20Thailand%20%7C%20Reality%20%7C%20%40anonymouskeys
@@ -63,5 +64,4 @@ vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?encryption=
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?path=/ws&security=none&type=ws#%F0%9F%8C%90%20Thailand%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?host=v2ray.simspeedup.com&packetEncoding=xudp&path=/ws&security=none&type=ws#%F0%9F%8C%90%20Thailand%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?host=aIs.SpEeDtEsT.nEt&path=/ws&sni=v2ray.simspeedup.com&type=ws#%F0%9F%8C%90%20Thailand%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?allowInsecure=0&encryption=none&fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&insecure=0&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#%F0%9F%8C%90%20Thailand%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vmess://eyJhZGQiOiIxNTQuODMuMi4xMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlwMTguNjkyOTE5OC54eXoiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsIm5ldCI6IndzIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSIsInBvcnQiOiIyMDgyIiwicHMiOiLwn4yQIFRoYWlsYW5kIHwgV2ViU29ja2V0IHwgQGFub255bW91c2tleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
