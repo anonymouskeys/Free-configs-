@@ -1,2 +1,0 @@
-vless://328c690b-6e08-5b45-b82d-ba4010192194@144.124.226.216:443?encryption=none&fp=chrome&mode=auto&path=/&pbk=JkU5Vn1pM0jelR62NIqNwbE-b6Xs4kx-Vc6F-qNq1Fo&security=reality&sid=c8ea649c63208b&sni=ozon.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
-vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?encryption=none&fp=chrome&mode=auto&path=/&pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&security=reality&sid=67&sni=vk.com&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
