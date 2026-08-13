@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#%F0%9F%8C%90%20India%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%8C%90%20India%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.18.152.230:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://ND91608427@13.36.175.151:443?fp=chrome&sni=classic-gator.rooster465.autos#%F0%9F%8C%90%20India%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://497631c4-a1a4-004d-a86a-f42873473bb6@102.68.86.223:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%8C%90%20India%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@104.21.48.1:443?alpn=h3&encryption=none&fp=chrome&mode=packet-up&path=/gdsthjjjvfxsstyy%D8%9Fed%3D443&security=tls&sni=cho.chonon.sbs&type=xhttp#%F0%9F%8C%90%20India%20%7C%20XHTTP%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?encryption=none&host=vms.lifetime61.workers.dev&packetEncoding=xudp&path=/&security=none&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
