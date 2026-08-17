@@ -4,6 +4,7 @@ hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?sni=gorbachev-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#%F0%9F%8C%90%20India%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%8C%90%20India%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.18.152.230:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=/%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://FH72359861@202.78.163.233:443?allowInsecure=1#%F0%9F%8C%90%20India%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@47.129.7.255:443?fp=chrome&path=/&sni=stable-racer.rooster465.autos&type=tcp#%F0%9F%8C%90%20India%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://88b4b7e4-3e6a-4861-9806-1366ba3c1a61@v1in2.stableq.top:24408?fp=chrome&security=tls&sni=v1in2.stableq.top&type=tcp#%F0%9F%8C%90%20India%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -24,7 +25,7 @@ vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.208.11:80/?ed=2560&eh=Sec-W
 vless://dd618f98-8af3-413b-b4d7-f77afa40365d@151.236.93.64:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=B59-Z34-VHLbRz8jdcSBCvtVrfyCH7VU4Zyw3aSVUGQ&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com&type=tcp#%F0%9F%8C%90%20India%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://19001d44-63d4-496f-9a58-312a5d65668c@157.245.97.66:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aGnuEqGr0P1reQd3FC-AvDppjiHZBH9itV33XDaKOg4&security=reality&sid=53bf38279e382cb0&sni=www.cloudflare.com&type=tcp#%F0%9F%8C%90%20India%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://a459daa5-97c5-47e7-ad0d-a7b212d4fae7@168.144.187.159:9090?encryption=none&fp=qq&headerType=none&pbk=fYFdU2bf6hh04Rt7ZlrTmzPTeVux4hVj5XzTB38oxm0&security=reality&sid=64470926&sni=search.google.com&spx=/c8409e18057b8a2&type=tcp#%F0%9F%8C%90%20India%20%7C%20Reality%20%7C%20%40anonymouskeys
-vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.64.147.2:443?fp=chrome&security=tls&sni=vltj.qzz.io&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://11046a7c-fa1b-4653-ab87-400feb465540@172.64.147.2:8880?_t=a2749b2f&sni=172.64.147.2&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://52450a53-ac49-42ff-be36-0899178d34b9@172.67.213.26:2053?fp=chrome&security=tls&sni=172.67.213.26&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://a8890c1b-3622-3106-c4be-d8671be32d2b@172.67.214.106:443?encryption=none&fp=chrome&host=summer-meadow-af5b.woowoorrrkk.workers.dev&path=/sync&security=tls&sni=summer-meadow-af5b.woowoorrrkk.workers.dev&type=ws#%F0%9F%8C%90%20India%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.182:2083?encryption=none&fp=edge&mode=gun&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&security=reality&serviceName=grpc&sid=d3124debabf1456c&sni=www.google.com&type=grpc#%F0%9F%8C%90%20India%20%7C%20Reality%20%7C%20%40anonymouskeys

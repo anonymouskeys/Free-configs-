@@ -18,7 +18,7 @@ trojan://ewpvezqjycgfeebg@38.79.154.34:1818?fp=chrome&headerType=none&host=v2ray
 trojan://ewpvezqjycgfeebg@38.79.154.34:1818?fp=chrome&headerType=none&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&security=reality&sid=cee1b559&sni=www.cloudflare.com&spx=/353add2ce7a3241&type=tcp#%F0%9F%8C%90%20Romania%20%7C%20Reality%20%7C%20%40anonymouskeys
 trojan://PQ05174892@43.207.145.97:443?fp=chrome&sni=engaged-antelope.rooster465.autos&type=tcp#%F0%9F%8C%90%20Romania%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@52.195.233.147:443?allowInsecure=0&sni=touching-ostrich.rooster465.autos#%F0%9F%8C%90%20Romania%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://AE62539071@54.188.176.255:443?path=/&security=tls#%F0%9F%8C%90%20Romania%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://AE62539071@54.188.176.255:443?fp=chrome&path=/&sni=arriving-colt.rooster465.autos&type=tcp#%F0%9F%8C%90%20Romania%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@87.121.33.109:443?allowInsecure=1&sni=national-stingray.rooster465.autos#%F0%9F%8C%90%20Romania%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@bold-eagle.rooster465.autos:443?encryption=none&security=none&sni=bold-eagle.rooster465.autos&type=tcp#%F0%9F%8C%90%20Romania%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@free-tuna.rooster465.autos:443?encryption=none&security=none&sni=free-tuna.rooster465.autos&type=tcp#%F0%9F%8C%90%20Romania%20%7C%20TCP%20%7C%20%40anonymouskeys
