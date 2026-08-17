@@ -1,5 +1,5 @@
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443/?sni=grape-power-pl.ddnsguru.com#%F0%9F%8C%90%20South%20Korea%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?sni=css.rbxcdn.com#%F0%9F%8C%90%20South%20Korea%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8C%90%20South%20Korea%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://hysteria2_fastlane_duo1sn24a@91.132.160.243:1935?fp=edge&sni=de6.h.fastlanehosting.ru#%F0%9F%8C%90%20South%20Korea%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%8C%90%20South%20Korea%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443?alpn=h3&sni=us54.mechvpn.online#%F0%9F%8C%90%20South%20Korea%20%7C%20QUIC%20%7C%20%40anonymouskeys
@@ -20,9 +20,8 @@ trojan://ND91608427@13.125.239.182:443?allowInsecure=0&fp=chrome&headerType=none
 trojan://PQ05174892@13.159.17.90:443?fp=chrome&sni=outgoing-cockatoo.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://ND91608427@18.181.194.227:443?path=/&sni=moral-buzzard.rooster465.autos#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://Telegram_healer_config@30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev:443?allowInsecure=0&alpn=http/1.1&fp=chrome&insecure=0&path=/tr/MBHDTiG2ZHfgBBj9iEpRFkse0tafJ%3Fed%3D2560&security=tls&sni=30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev&type=ws#%F0%9F%8C%90%20South%20Korea%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://FH72359861@43.202.61.210:443?security=tls&sni=loyal-molly.rooster465.autos#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@52.78.13.238:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=upward-puma.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://FH72359861@63.176.171.181:443?fp=chrome&path=/&sni=engaging-toucan.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://FH72359861@63.176.171.181:443?allowInsecure=1&sni=engaging-toucan.rooster465.autos#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?security=tls&sni=absolute-bobcat.rooster465.autos#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@allowed-hermit.rooster465.autos:443?security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -68,6 +67,7 @@ trojan://AE62539071@possible-yeti.rooster465.autos:443?security=tls#%F0%9F%8C%90
 trojan://AE62539071@precious-racer.rooster465.autos:443?security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@precise-locust.rooster465.autos:443?security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@rare-lion.rooster465.autos:443?allowInsecure=0&sni=rare-lion.rooster465.autos#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@sacred-hound.rooster465.autos:443?security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@saved-ghoul.rooster465.autos:443?security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@saving-octopus.rooster465.autos:443?amp%3Bsni=saving-octopus.rooster465.autos&security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -83,7 +83,7 @@ trojan://ND91608427@upward-puma.rooster465.autos:443?path=/&security=tls&sni=upw
 trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls#%F0%9F%8C%90%20South%20Korea%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@viable-serval.rooster465.autos:443?fp=chrome&security=tls&sni=viable-serval.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.111.27:8443?encryption=none&fp=chrome&host=round-art-52ee.eadfgv.workers.dev&path=/&security=tls&sni=round-art-52ee.eadfgv.workers.dev&type=ws#%F0%9F%8C%90%20South%20Korea%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://5659b42c-636f-4563-ac41-87d565d0dd1e@104.21.227.134:8880?sni=104.21.227.134&type=ws#%F0%9F%8C%90%20South%20Korea%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@104.21.227.134:443?alpn=h3&encryption=none&fp=chrome&mode=packet-up&path=/gdsthjjjvfxsstyy%D8%9Fed%3D443&security=tls&sni=cho.chonon.sbs&type=xhttp#%F0%9F%8C%90%20South%20Korea%20%7C%20XHTTP%20%7C%20%40anonymouskeys
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@104.27.84.29:443?allowInsecure=0&encryption=none&fp=chrome&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&insecure=0&path=/%3Fed%3D%23Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--%3Fed%3D512&security=tls&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&type=ws#%F0%9F%8C%90%20South%20Korea%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://02bbbec4-8e6e-4ea8-982f-cdcac3541f09@109.122.197.72:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=UpO0lV2YR0otf1jQKLHDp2bD623tyUIefqCLGm04a2Q&security=reality&sid=a8237269c785d443&sni=ya.ru&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443/?encryption=none&fp=chrome&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&security=reality&sid=0a427bc3&sni=apple.com&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20Reality%20%7C%20%40anonymouskeys
@@ -155,7 +155,7 @@ vless://7c0ae486-6e09-465c-9232-67a50f329eb9@45.195.2.114:443?encryption=none&fl
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.123:443?flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.172:443?flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.80.59.17:13779?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&security=reality&sid=af1bdd293097b664&sni=tesla.com&type=raw#%F0%9F%8C%90%20South%20Korea%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://b4640899-28b4-472d-807c-c41186146204@5.42.120.224:7443?encryption=none&extra=null&fp=firefox&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice3.oaklandjoseph.top&type=xhttp#%F0%9F%8C%90%20South%20Korea%20%7C%20XHTTP%20%7C%20%40anonymouskeys
+vless://8b77c080-fd80-4e26-ac77-2822a94197fe@5.42.120.224:7443?encryption=none&extra=null&fp=firefox&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice3.oaklandjoseph.top&type=xhttp#%F0%9F%8C%90%20South%20Korea%20%7C%20XHTTP%20%7C%20%40anonymouskeys
 vless://c166b73d-8cde-4728-ab74-b14a34febb76@51.250.11.249:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LCiZMlHN4_ZOJ1f-TXRdO_5JkMoZfZ2jmTosKvHyZAA&security=reality&sid=202bfa17&sni=tunnel.vk-apps.com&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://abff54b1-a5a6-46a6-a202-08452fd07ae7@51.250.83.255:443?amp%3Bencryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bfp=chrome&amp%3BheaderType=none&amp%3Bpbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp%3Bsid=2476f063981ffd92&amp%3Bsni=api-maps.yandex.ru&amp%3Btype=tcp&security=reality#%F0%9F%8C%90%20South%20Korea%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@52.78.188.66:8686?encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&security=reality&sid=628b3c90c98ead4f&sni=www.apple.com&type=tcp#%F0%9F%8C%90%20South%20Korea%20%7C%20Reality%20%7C%20%40anonymouskeys
