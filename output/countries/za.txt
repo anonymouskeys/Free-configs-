@@ -9,7 +9,7 @@ trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&fp=
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?alpn=http/1.1&fp=chrome&security=tls&type=tcp#%F0%9F%8C%90%20South%20Africa%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@43.203.243.160:443?allowInsecure=1&sni=sensible-barnacle.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Africa%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&sni=distinct-quail.rooster465.autos#%F0%9F%8C%90%20South%20Africa%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://PQ05174892@52.74.232.63:443?fp=chrome&sni=casual-emu.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Africa%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://PQ05174892@52.74.232.63:443?allowInsecure=1&sni=casual-emu.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Africa%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@54.180.158.231:443?fp=chrome&path=/&sni=precise-locust.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Africa%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@54.64.38.110:443?fp=chrome&path=/&sni=equal-labrador.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Africa%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@aware-puma.rooster465.autos:443?encryption=none&fp=chrome&security=tls&sni=aware-puma.rooster465.autos&type=tcp#%F0%9F%8C%90%20South%20Africa%20%7C%20TCP%20%7C%20%40anonymouskeys
