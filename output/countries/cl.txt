@@ -1,13 +1,12 @@
 trojan://humanity@104.18.152.219:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Chile%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://humanity@104.18.23.63:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Chile%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://FH72359861@13.158.129.134:443?path=/&security=tls#%F0%9F%8C%90%20Chile%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://PQ05174892@13.212.87.164:443?allowInsecure=1&sni=sharp-feline.rooster465.autos&type=tcp#%F0%9F%8C%90%20Chile%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://PQ05174892@13.212.87.164:443?fp=chrome&path=/&sni=sharp-feline.rooster465.autos&type=tcp#%F0%9F%8C%90%20Chile%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@194.99.79.121:443?path=/&security=tls#%F0%9F%8C%90%20Chile%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://humanity@216.24.57.1:443?allowInsecure=0&ech=ip.gs+udp://8.8.8.8&host=www.ignitelimit.com&insecure=0&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Chile%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://FH72359861@43.203.126.94:443?fp=chrome&path=/&sni=moral-basilisk.rooster465.autos&type=tcp#%F0%9F%8C%90%20Chile%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://PQ05174892@52.79.132.234:443?allowInsecure=1&sni=careful-cow.rooster465.autos&type=tcp#%F0%9F%8C%90%20Chile%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://FH72359861@54.72.58.12:443?sni=darling-mongrel.rooster465.autos#%F0%9F%8C%90%20Chile%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://FH72359861@57.180.34.69:443?allowInsecure=0&sni=magical-airedale.rooster465.autos#%F0%9F%8C%90%20Chile%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@52.79.132.234:443?fp=chrome&path=/&sni=careful-cow.rooster465.autos&type=tcp#%F0%9F%8C%90%20Chile%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://FH72359861@54.72.58.12:443?allowInsecure=1#%F0%9F%8C%90%20Chile%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@57.180.34.69:443?path=/&security=tls&sni=magical-airedale.rooster465.autos#%F0%9F%8C%90%20Chile%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@104.21.93.245:8443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=focalin.adaspoloandco.com&path=/RizZrAcK&security=tls&sni=focalin.adaspoloandco.com&type=ws#%F0%9F%8C%90%20Chile%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://b8783764-ad60-58bb-b2c9-349bfd373a72@104.249.43.185:443?encryption=none&fp=firefox&pbk=TOYZKAyAsQu10u4nK5EeoAw3_z0FIfLTPVqBiD0A01s&security=reality&sid=beb1ebec&sni=microsoft.com&type=tcp#%F0%9F%8C%90%20Chile%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.220.11:80/?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20Chile%20%7C%20WebSocket%20%7C%20%40anonymouskeys
