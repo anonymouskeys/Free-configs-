@@ -1,1 +1,0 @@
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@89.125.13.239:443?mtu=1350&tti=20&type=kcp#%F0%9F%8C%8D%20Unknown%20%7C%20KCP%20%7C%20%40anonymouskeys
