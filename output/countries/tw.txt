@@ -31,8 +31,7 @@ trojan://FH72359861@13.125.17.253:443?fp=chrome&path=/&sni=lasting-bobcat.rooste
 trojan://PQ05174892@13.39.161.149:443?allowInsecure=1#%F0%9F%8C%90%20Taiwan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@3.112.178.131:443?allowInsecure=1&sni=brief-hare.rooster465.autos&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@3.38.97.183:443?allowInsecure=1&sni=factual-titmouse.rooster465.autos&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://AE62539071@54.169.241.164:443?fp=chrome&sni=rested-osprey.rooster465.autos#%F0%9F%8C%90%20Taiwan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://FH72359861@54.250.156.204:443?allowInsecure=0#%F0%9F%8C%90%20Taiwan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@54.250.156.204:443?fp=chrome&path=/&sni=square-tortoise.rooster465.autos&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@86.38.214.205:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://b5a21d2a-6208-4e23-91ab-c2423c2ae362@tw2.microsoft-orgwly.vip:443?alpn=http/1.1&fp=chrome&security=tls&sni=tls.microsoft-orgwly.vip&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://5c90ba85-fa28-4437-8561-4fab86beccaa@101.99.91.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=e499f276e7bd6420&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
@@ -41,7 +40,6 @@ vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@103.137.22.71:8443?fp=chrome&header
 vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.201:8880?headerType=none&host=www.udemy.com.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK%3Fed%3D2560%26https://t.me/WangCai2&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.130:2087?ed=2560&fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://4ccf70f9-7632-4b5a-9557-10d2dd347bb2@104.21.89.41:443?alpn=http/1.1&encryption=none&fp=chrome&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&path=/vl/xdgqAmOIkXyYoldvHgzrFBxltKN%3Fed%3D2560&security=tls&sni=tO6r63-kkChIGHQM2.VxZ0dDUq7To7su0cdqf.wORKeRS.dEV&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.201:8880?host=www.udemy.com.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK%3Fed%3D2560%26https://t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@107.181.151.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&security=reality&sid=60500a63ad12&sni=www.microsoft.com&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://bc6b146b-a003-45fe-a6ff-bc783eecb0f8@109.120.188.139:13443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=eh.vk.com&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys

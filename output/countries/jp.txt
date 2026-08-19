@@ -1,7 +1,7 @@
-hysteria2://AMnTye4y6Jjxc0J0@151.242.164.204:26001?insecure=1&sni=jp-akile-6.nebulacloud.win#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?allowInsecure=1&downmbps=50&insecure=1&sni=vk.com&type=tcp&upmbps=10#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?allowInsecure=1&downmbps=50&insecure=1&sni=speedtest.tinkoff.ru&type=tcp&upmbps=10#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 hysteria2://cd74c0a406664a5bc0bac098220a2468@fi1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=fi1.sferavpn.pro#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206ZzlTbFJCT2Y5RHk5WGpmMA@103.115.18.48:8388#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20SS%20%7C%20%40anonymouskeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYkVOMGc2UmJuc3llOEVKWno5NE9G@108.61.223.231:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@35.77.188.151:8319#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@43.207.148.120:8316#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -10,12 +10,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmY1NTE5N2QyYmFjMmRiMmVkODFjNTY5Y2U5NTc2Yw@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.16.174.12:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://AE62539071@13.124.185.220:443?fp=chrome&path=/&sni=prepared-monitor.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://PQ05174892@13.212.33.67:443?fp=chrome&path=/&sni=intense-monarch.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@13.124.185.220:443?encryption=none&fp=chrome&security=tls&sni=prepared-monitor.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@13.158.135.118:443?allowInsecure=0&fp=chrome&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&security=tls&sni=literate-cow.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@13.158.137.73:443?amp%3BallowInsecure=0&amp%3Bfp=chrome&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Bsni=novel-bat.rooster465.autos&amp%3Btype=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@13.159.17.90:443?amp%3BallowInsecure=0&amp%3Bfp=chrome&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Bsni=outgoing-cockatoo.rooster465.autos&amp%3Btype=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@13.212.33.67:443?fp=chrome&path=/&security=tls&sni=intense-monarch.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@13.212.59.213:443?fp=chrome&path=/&sni=guided-ferret.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?path=/&security=tls&sni=t11.qifei.app#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://fg20mtCFHy@172.105.197.232:5710?allowInsecure=1&sni=jpcaw.southbyte.xyz#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=/&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://ND91608427@18.181.164.216:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=upright-impala.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://FH72359861@3.112.200.59:443?amp%3BallowInsecure=0&amp%3Bfp=chrome&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Bsni=new-eagle.rooster465.autos&amp%3Btype=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://AE62539071@3.112.29.46:443?amp%3BallowInsecure=0&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Bsni=clear-killdeer.rooster465.autos&amp%3Btype=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@43.206.241.145:443?security=tls&sni=concise-guinea.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@52.196.139.154:443?security=tls&sni=sterling-vervet.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@54.238.100.160:443?security=tls&sni=witty-duckling.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&sni=accepted-starling.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@adapted-quetzal.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -50,6 +58,8 @@ trojan://AE62539071@coherent-newt.rooster465.autos:443?security=tls#%F0%9F%87%AF
 trojan://FH72359861@communal-troll.rooster465.autos:443?security=tls&sni=communal-troll.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@concise-guinea.rooster465.autos:443?headerType=none&security=tls&type=raw#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20RAW%20%7C%20%40anonymouskeys
 trojan://AE62539071@deep-ringtail.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://EQ30679154@definite-gazelle.rooster465.autos:443?security=tls&sni=definite-gazelle.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://EQ30679154@definite-gazelle.rooster465.autos:443?amp%3Bsni=definite-gazelle.rooster465.autos&amp%3Btype=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@definite-hen.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@devoted-heron.rooster465.autos:443?path=/&security=tls&sni=devoted-heron.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@devoted-zebra.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -81,6 +91,7 @@ trojan://AE62539071@fun-poodle.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0
 trojan://AE62539071@fun-salmon.rooster465.autos:443?fp=chrome&security=tls&sni=fun-salmon.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@game-thrush.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://EQ30679154@gentle-perch.rooster465.autos:443?allowInsecure=0&sni=gentle-perch.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@glorious-hamster.rooster465.autos:443?fp=chrome&security=tls&sni=glorious-hamster.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@grateful-crawdad.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@grateful-crawdad.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -123,6 +134,7 @@ trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls#%F0%9F%87%AF%F
 trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls&sni=maximum-elk.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@merry-falcon.rooster465.autos:443?peer=merry-falcon.rooster465.autos&security=tls&sni=merry-falcon.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-lemming.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@mighty-lemming.rooster465.autos:443?amp%3Bsni=mighty-lemming.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@modern-bulldog.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@nearby-egret.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -148,6 +160,7 @@ trojan://AE62539071@polished-imp.rooster465.autos:443?fp=chrome&security=tls&sni
 trojan://AE62539071@polished-katydid.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@premium-weevil.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@prepared-thrush.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@pretty-adder.rooster465.autos:443?security=tls&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@proper-mouse.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@proud-escargot.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@pure-kodiak.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -177,9 +190,11 @@ trojan://AE62539071@sweeping-parakeet.rooster465.autos:443?security=tls#%F0%9F%8
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=0&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&security=tls&sni=t11.qifei.app&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://ND91608427@thankful-mustang.rooster465.autos:443?amp%3Bsni=thankful-mustang.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@thorough-elf.rooster465.autos:443?security=tls&sni=thorough-elf.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@together-mayfly.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@touching-ostrich.rooster465.autos:443?security=tls&sni=touching-ostrich.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@touching-ostrich.rooster465.autos:443?amp%3Bsni=touching-ostrich.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@tough-gopher.rooster465.autos:443?fp=chrome&security=tls&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@tough-gopher.rooster465.autos:443?fp=chrome&security=tls&sni=tough-gopher.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://ND91608427@tough-robin.rooster465.autos:443?security=tls&sni=tough-robin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@trusting-elf.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -199,13 +214,15 @@ vless://6a1f6c94-7785-42e2-9203-381d1f4db37e@103.100.158.10:443?flow=xtls-rprx-v
 vless://81a865ca-3a2e-48b1-8ba4-fcdcbbed94cb@103.100.158.12:443?flow=xtls-rprx-vision&fp=chrome&pbk=-FabDynhSYw-MiWTA9byBLG1qn6Ccr0X9gSuST4kpQU&security=reality&sid=6869a2f27528a6cf&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
+vless://9abba46f-b346-435e-9408-6eaffc62144b@103.76.85.171:443?flow=xtls-rprx-vision&fp=chrome&pbk=20Ik7FkA1OT40lGjeczJTsJMd7ceZlWWxFKyR-1TdEs&security=reality&sid=161280da3a1e69e0&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://cf16297a-79ef-454b-94e3-030ae8503886@103.76.85.175:443?flow=xtls-rprx-vision&fp=chrome&pbk=Vwm4rDhe5zEjYsSO9vcR0zdeansCTL6GOtXXNWlZXG0&security=reality&sid=0123456789abcdef&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
+vless://d6d6794e-c7d2-4d8b-86bd-67f87d93b314@103.76.85.191:443?flow=xtls-rprx-vision&fp=chrome&pbk=SIJR-eZYknkhCQTICAVDZj5qRtAFY6pCu7wfZ_t2ahI&security=reality&sid=5f8623080b3d20d0&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://696338ec-091d-4b41-b855-8f88d5b5d873@103.76.85.228:443?flow=xtls-rprx-vision&fp=chrome&pbk=oCsEp9srC8WQ7ZAsGSqD0QZ9MrNtIrUyllSZcgTfd28&security=reality&sid=b81f60db2e3d6346&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://5b44fc89-c5be-48e6-aa2e-0f90ff733390@108.162.193.217:443?alpn=h2&encryption=none&fp=chrome&path=/dndgjqws&security=tls&sni=638981351826446112.insight-amshd.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://1b69afb7-9f0a-4e6c-9a4b-1fcf7621b0be@109.107.140.188:51790?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&pbk=XJa0ZYOvtfwRz7aF8GprVrnEjc4S1rokGFhc-tI1YFk&security=reality&sid=02c40852&sni=icloud.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?fp=chrome&host=1-brc.pages.dev&path=/&security=tls&sni=1-brc.pages.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&security=reality&sid=e6ac18b63f23&sni=bgcpartners.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://c35474ed-d6a8-4213-8edb-5c333e5b5f7c@138.124.123.96:443?encryption=none&fp=firefox&path=/maps_common/v1/data/subscriptions/web&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=d435a0d34ef3b60e&sni=cloud-api.yandex.ru&type=xhttp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://b3209c97-be59-4eec-87a0-cf18e3fe5024@139.162.83.207:74?encryption=none&host=317.hg168.de5.net&path=/%3Fed%3D2560&security=tls&sni=317.hg168.de5.net&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?headerType=none&path=/&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -229,6 +246,7 @@ vless://e329843c-02c3-4401-8289-cf196d5a6921@158.160.201.80:443?encryption=none&
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@170.205.39.165:8443?allowInsecure=0&encryption=none&fp=chrome&host=rubifen.adaspoloandco.com&insecure=0&path=/GOrbEh&security=tls&sni=rubifen.adaspoloandco.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?encryption=none&packetEncoding=xudp&path=/vless/&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?encryption=none&host=join---i10vpn---join---i10vpn---join---i10vpn---join---i10vpn&path=/vless/&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443?encryption=none&fp=chrome&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&path=/js/cHlpcC55Z2tray5kcGRucy5vcmc%3D/&security=tls&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.165.140.111:443?fp=firefox&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://1bc7aa95-9100-4e8e-de41-ae62b3419ae9@185.126.14.200:10635?headerType=none&path=/&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://d0b4e190-2ab7-41db-866a-f1b36d6e87c5@185.126.202.181:2095?encryption=none&security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -251,6 +269,7 @@ vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?encryption=none&
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
+vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?fp=firefox&mode=gun&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&security=reality&serviceName=grpc&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=grpc#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@35.200.86.178:21143?flow=xtls-rprx-vision&fp=firefox&headerType=none&host=www.spotify.com&path=/&pbk=VFcjMcy9uLRCq3dy9zqYFOPF73TAx6QO11rleDrfBgM&security=reality&sid=274772e3550ee3eb&sni=www.spotify.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&security=reality&sid=b2f4518cf979889d&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443?fp=chrome&headerType=none&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -344,3 +363,4 @@ vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6MCwiaG9zdCI6IjE3Mi4xMTEuMTQ2LjY0
 vmess://eyJhZGQiOiIyMDcuNTYuMjI5LjIwMiIsImFpZCI6MCwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiOWJiODFhMjgtMDBkMC00ZGNjLWJmODEtMzY5NzIxZDIwOGM5IiwibmV0Ijoid3MiLCJwYXRoIjoiOWJiODFhMjgtMDBkMC00ZGNjLWJmODEtMzY5NzIxZDIwOGM5LXZtIiwicG9ydCI6IjIwNTIiLCJwcyI6IvCfh6_wn4e1IEphcGFuIHwgV2ViU29ja2V0IHwgQGFub255bW91c2tleXMiLCJzZWN1cml0eSI6ImF1dG8ifQ
 vmess://eyJhZGQiOiIyMDcuNTYuMjI5LjIwMiIsImFpZCI6MCwiaWQiOiI5YmI4MWEyOC0wMGQwLTRkY2MtYmY4MS0zNjk3MjFkMjA4YzkiLCJuZXQiOiJ3cyIsInBhdGgiOiI5YmI4MWEyOC0wMGQwLTRkY2MtYmY4MS0zNjk3MjFkMjA4Yzktdm0iLCJwb3J0IjoiMjA1MiIsInBzIjoi8J-Hr_Cfh7UgSmFwYW4gfCBXZWJTb2NrZXQgfCBAYW5vbnltb3Vza2V5cyIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 vmess://eyJhZGQiOiJqcC52cG4udGFpYWlzZS5jbiIsImFpZCI6IjAiLCJob3N0IjoianAudnBuLnRhaWFpc2UuY24iLCJpZCI6IjA2MGFlZGU3LTExZWEtNDAzMi1iMDI1LTZjNDE2OGE1MTgyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9qcCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6_wn4e1IEphcGFuIHwgV2ViU29ja2V0IHwgQGFub255bW91c2tleXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vmess://eyJhZGQiOiJ0b2t5bzAyLnpnam9rLmNvbSIsImFpZCI6IjAiLCJpZCI6IjNmZTExM2Y5LWU1NjQtNDExMS1iOGM3LTExZjU5NzY4NzY4OSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ev8J-HtSBKYXBhbiB8IFdlYlNvY2tldCB8IEBhbm9ueW1vdXNrZXlzIiwic2N5IjoiYXV0byIsInNuaSI6InRva3lvMDIuemdqb2suY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0

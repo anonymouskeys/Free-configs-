@@ -1,6 +1,6 @@
 hysteria2://finland_hysteria2_fastlane_8cikuiipr@144.31.232.166:1935?sni=fi1.h.fastlanehosting.ru#%F0%9F%8C%90%20Australia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.201.58.201:443?allowInsecure=1&downmbps=50&insecure=1&sni=css.rbxcdn.com&type=tcp&upmbps=10#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de200.mechvpn.online:443?seq=you_are_beautiful9440&sni=de200.mechvpn.online#%F0%9F%8C%90%20Australia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de200.mechvpn.online:443?insecure=1#%F0%9F%8C%90%20Australia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443/?sni=nl174.mechvpn.online#%F0%9F%8C%90%20Australia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#%F0%9F%8C%90%20Australia%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%F0%9F%8C%90%20Australia%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -14,12 +14,11 @@ trojan://AE62539071@18.183.140.61:443?path=/&security=tls#%F0%9F%8C%90%20Austral
 trojan://EQ30679154@35.156.13.144:443?fp=chrome&sni=normal-cow.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@35.91.138.234:443?allowInsecure=1&sni=sure-bengal.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@43.203.206.201:443?allowInsecure=0#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://AE62539071@47.129.157.81:443?fp=chrome&sni=noted-bass.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@52.194.250.73:443?fp=chrome&path=/&sni=frank-frog.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://PQ05174892@52.195.206.148:443?fp=chrome&path=/&sni=fair-kingfish.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://PQ05174892@52.195.206.148:443?fp=chrome&path=/&security=tls&sni=fair-kingfish.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://EQ30679154@52.221.252.138:443?fp=chrome&sni=relevant-oryx.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@52.78.246.253:443?fp=chrome&path=/&sni=pleased-mammal.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://AE62539071@54.74.159.195:443?path=/&security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PD07395842@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ON38567014@chief-antelope.rooster465.autos:443?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=chief-antelope.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -50,7 +49,7 @@ trojan://AE62539071@wanted-marmoset.rooster465.autos:443?allowInsecure=1&fp=chro
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?amp%3Bpath=/&amp%3Bsni=wanted-marmoset.rooster465.autos&security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FC60532879@welcome-labrador.rooster465.autos:443?path=/&security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.125.218.249:443?amp%3Bflow=xtls-rprx-vision&amp%3Bfp=firefox&amp%3BheaderType=none&amp%3Bpbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&amp%3Bsecurity=reality&amp%3Bsid=e53048e82bb20077&amp%3Bsni=asia.cendora.ru&amp%3Btype=tcp&encryption=none#%F0%9F%8C%90%20Australia%20%7C%20VLESS%20%7C%20%40anonymouskeys
+vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@103.125.218.249:13443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?amp%3Bencryption=none&amp%3Bhost=reedfree8mahsang2.redorg.ir&amp%3Bsecurity=none&amp%3Btype=ws&path=/%3Fed%3D2560#%F0%9F%8C%90%20Australia%20%7C%20VLESS%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?headerType=none&host=vms.lifetime38.workers.dev&path=/&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.18.24.228:2053?encryption=none&fp=chrome&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -89,14 +88,12 @@ vless://94e25e2b-ffc8-453d-a08c-1f5c3c249755@87.121.47.216:443?encryption=none&f
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK%3Fed%3D2560&security=none&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@91.107.121.223:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tFOva4mDqw-noGSk4B5gdh4X4WhyXHs0eNxM3QogyE4&security=reality&sid=f5563ddfa2847b32&sni=sun6-21.userapi.com#%F0%9F%8C%90%20Australia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://921db318-1694-4408-9cc7-c93df39f7f8e@au.monkora.org:443?encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=au.monkora.org&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20%7C%20%40anonymouskeys
-vless://612f78a0-65ca-45af-a3ff-7d0f8e9f8655@cf6.466688.xyz:8880?encryption=none&host=broken-star-c5ae.446.workers.dev&packetEncoding=xudp&path=/pyip%3DProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&security=none&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?alpn=h2,http/1.1&encryption=none&fp=chrome&path=/melov2ray&security=tls&sni=De.Melov2ray.Shop&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://8f4211ee-290c-4d66-a269-ccf08e3eef3a@fin.melov2ray.shop:443?alpn=h2,http/1.1,h3&fp=random&security=tls&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop&type=grpc#%F0%9F%8C%90%20Australia%20%7C%20gRPC%20%7C%20%40anonymouskeys
 vless://94a89a19-ed7d-4223-bcff-d8f96d22fd14@fin.melov2ray.shop:443?alpn=http/1.1,h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@melov2ray&sni=fin.melov2ray.shop&type=grpc#%F0%9F%8C%90%20Australia%20%7C%20gRPC%20%7C%20%40anonymouskeys
 vless://bc9ff680-e526-48e8-a818-d111b0425591@hamrah.kanal-tel-nufilter.store:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=W5jAswnd_wfiaDerY2yy3zIyNUbWoks2-tmkAFOE7VA&security=reality&sid=d77fdb611c4c&sni=www.speedtest.net&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://60813de7-15e4-4d05-95a1-567c3f2f213b@ip.melov2ray.shop:443?path=/melov2ray&security=none&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://7f21c3b5-91d2-492f-803d-5112fe648f21@ip.melov2ray.shop:443?path=/melov2ray&security=none&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://b8783764-ad60-58bb-b2c9-349bfd373a72@italy.cloudpath.live:443?encryption=none&fp=chrome&headerType=none&pbk=6_kbS64_FjhE3kBpCUoUx6hl5frrrdyuUSCQks_ch3o&security=reality&sid=01ba48a6&sni=microsoft.com&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://1641a422-2dff-45a5-846f-75ff8422b1dd@jfhdjdjdjdjekwkwjejdkhddb.ips-ipstatic.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=OqBAjoEHKMfHz1bsj1nlRmehz_h_RnnYjHlWdQmK0T8&security=reality&sid=5218bfb83fb5b9b8&sni=play.google.com&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?encryption=none&mode=gun&security=tls&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8C%90%20Australia%20%7C%20gRPC%20%7C%20%40anonymouskeys
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@ru41.theabvp.org:443?encryption=none&fp=firefox&headerType=none&pbk=YlTuZAJgyqZ6gmKKTbtR0TZvFsXeozca_bs0tqIXtys&security=reality&sid=920d0959&sni=sun6-20.userapi.com&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20%7C%20%40anonymouskeys
