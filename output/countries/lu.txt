@@ -1,14 +1,14 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%8C%90%20Luxembourg%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:443#%F0%9F%8C%90%20Luxembourg%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+trojan://FH72359861@13.250.119.54:443?allowInsecure=0&headerType=none&insecure=0&security=tls&sni=casual-basilisk.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@202.78.163.175:443?path=/&security=tls&sni=optimal-urchin.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://FH72359861@3.120.70.66:443?sni=renewed-porpoise.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@3.120.70.66:443?path=/&sni=renewed-porpoise.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@3.253.78.205:443?allowInsecure=1#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://PQ05174892@34.220.224.252:443?path=/&sni=smooth-sculpin.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://FH72359861@35.159.21.7:443?sni=summary-lemming.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://PQ05174892@43.207.166.211:443?path=/&sni=proper-mouse.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://PQ05174892@34.220.224.252:443?allowInsecure=1&sni=smooth-sculpin.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://FH72359861@35.159.21.7:443?fp=chrome&path=/&sni=summary-lemming.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@43.207.166.211:443?allowInsecure=1&fp=chrome&sni=proper-mouse.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@45.130.125.112:443?fp=chrome&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://EQ30679154@47.129.160.142:443?encryption=none&fp=chrome&security=tls&sni=well-goshawk.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@52.195.215.144:443?allowInsecure=0#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@104.18.27.48:80?encryption=none&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&path=/&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://89b3cbba-e6ac-4850-94af-061316b04020@104.21.60.109:2083?fp=chrome&security=tls&sni=104.21.60.109&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -20,7 +20,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.64.253:8880?encryption=none
 vless://62b0e46b-d2a5-423d-8457-95bde707fc19@158.160.175.98:2443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=IgaNLuUg1JOIoUdX4CegMU_XBU35B5RAYRL_-KZfpSY&security=reality&sid=c84a28bb05989ff4&sni=yandex.ru&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&security=reality&sid=674a07ea4d1c4255&sni=www.cloudflare.com&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://a5194487-9b9a-462f-a047-ac7580d80201@167.104.104.138:8443?fp=firefox&security=tls&sni=n.tmkkarss.online&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.146.189:443?allowInsecure=0&encryption=none&fp=chrome&host=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&insecure=0&path=/&security=tls&sni=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://c3ef0f28-7123-4dd5-aa69-6a99b13fa65f@178.250.243.188:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&security=reality&sid=da5f84e85736f625&sni=max.ru&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.201:8880?host=www.udemy.com.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK%3Fed%3D2560&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
