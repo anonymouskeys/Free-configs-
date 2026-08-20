@@ -5,14 +5,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcEN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@au1.levikogjgfdd.ir:27116#%F0%9F%8C%90%20Australia%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://PQ05174892@13.231.123.180:443?path=/&sni=fair-reptile.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://521314@161.33.76.218:8443?host=tjplay.lxdxo.kdns.fr&path=/&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://AE62539071@18.179.15.13:443?allowInsecure=1&sni=shining-haddock.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@18.179.15.13:443?allowInsecure=1&fp=chrome&sni=shining-haddock.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://EQ30679154@35.156.13.144:443?allowInsecure=1&sni=normal-cow.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@35.91.138.234:443?fp=chrome&path=/&sni=sure-bengal.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@47.129.157.81:443?fp=chrome&sni=noted-bass.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@51.44.167.144:443?fp=chrome#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@52.195.206.148:443?path=/&sni=fair-kingfish.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://EQ30679154@52.221.252.138:443?fp=chrome&path=/&sni=relevant-oryx.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos&type=raw#%F0%9F%8C%90%20Australia%20%7C%20RAW%20%7C%20%40anonymouskeys
 trojan://PD07395842@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ON38567014@chief-antelope.rooster465.autos:443?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=chief-antelope.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -30,8 +30,8 @@ trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&fp=chrom
 trojan://ON38567014@national-stingray.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=national-stingray.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://KV63147582@selected-bison.rooster465.autos:443?amp%3Bsni=selected-bison.rooster465.autos&security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://EQ30679154@sharing-chipmunk.rooster465.autos:443?security=tls&sni=sharing-chipmunk.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://Telegram_healer_config@soskeynets.0m68-qz3hqyfnlar6n3iq.workers.dev:443?allowInsecure=0&alpn=http/1.1&fp=chrome&host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev&insecure=0&path=/tr/MBHDTiG2ZHfgBBj9iEpRFkse0tafJ%3Fed%3D2560&security=tls&sni=30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://FH72359861@square-pheasant.rooster465.autos:443?security=tls&sni=square-pheasant.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@square-pheasant.rooster465.autos:443?security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://XG59623478@stirring-dane.rooster465.autos:443?amp%3Bsni=stirring-dane.rooster465.autos&security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -57,7 +57,7 @@ vless://cd15201c-4fc4-4ae0-b632-cd44563d8508@151.236.93.117:443?amp%3Bencryption
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?allowInsecure=1&encryption=none&fp=chrome&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&path=/%3Fed%3D2048&security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@16.176.42.97:443?allowInsecure=0&encryption=none&fp=firefox&insecure=0&path=/&security=tls&sni=zero.csmaster.ggff.net&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://e89fe855-e988-49f4-b905-069c844ca99b@162.128.71.140:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=2NkRth1EwaiVxU1u5nEnxODXViT7uxi87G3Wt2p8blI&security=reality&sid=22e1f6b69da7c5d2&sni=www.bing.com&type=raw#%F0%9F%8C%90%20Australia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://94f25bc7-1c62-4219-baab-b44acfb4da9c@185.71.67.212:443?allowInsecure=0&alpn=http/1.1&encryption=none&fp=chrome&host=4861b6a1d8.cacheio.ru&insecure=0&path=/api/v2/sync/09f21a21c0&security=tls&sni=4861b6a1d8.cacheio.ru&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://NamedZadim@193.93.169.242:53655?encryption=none&path=/&security=none&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.136.11:80/?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys

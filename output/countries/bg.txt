@@ -6,8 +6,9 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#%F0%9F%8C%90%20Bulga
 trojan://MiTiVPN@146.75.0.242:80?host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/HK---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&type=ws#%F0%9F%8C%90%20Bulgaria%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://PQ05174892@15.188.75.92:443?fp=chrome#%F0%9F%8C%90%20Bulgaria%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://Telegram_healer_config@172.67.218.38:443?allowInsecure=0&alpn=http/1.1&fp=chrome&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&insecure=0&path=/tr/dxyX388XOtyAjF3A%3Fed%3D2560&security=tls&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV&type=ws#%F0%9F%8C%90%20Bulgaria%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://ND91608427@18.181.164.216:443?path=/&security=tls&sni=upright-impala.rooster465.autos#%F0%9F%8C%90%20Bulgaria%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://ND91608427@18.181.164.216:443?allowInsecure=1&sni=upright-impala.rooster465.autos#%F0%9F%8C%90%20Bulgaria%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@34.245.159.68:443?path=/&sni=summary-firefly.rooster465.autos#%F0%9F%8C%90%20Bulgaria%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@43.206.241.145:443?allowInsecure=1#%F0%9F%8C%90%20Bulgaria%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://humanity@45.80.111.7:443?allowInsecure=0&fp=chrome&insecure=0&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Bulgaria%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.16.239.120:443?allowInsecure=0&encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=0&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#%F0%9F%8C%90%20Bulgaria%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.17.22.240:443?fp=random&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%8C%90%20Bulgaria%20%7C%20WebSocket%20%7C%20%40anonymouskeys
