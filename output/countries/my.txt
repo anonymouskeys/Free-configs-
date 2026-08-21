@@ -1,12 +1,12 @@
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.26:8443?sni=keyhop-offshore.roxa.org#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=t.me#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?sni=vpn-kr-003.fastervpn.world#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?allowInsecure=1&downmbps=50&insecure=1&sni=speedtest.tinkoff.ru&type=tcp&upmbps=10#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@13.39.249.40:443?sni=one-quail.rooster465.autos#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@202.78.163.100:443?fp=chrome&path=/&sni=enough-basilisk.rooster465.autos&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://FH72359861@3.113.30.13:443?path=/&security=tls#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@3.113.30.13:443?fp=chrome&path=/&sni=loyal-killdeer.rooster465.autos&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@3.113.6.163:443?path=/&security=tls#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://FH72359861@43.207.83.177:443?path=/&security=tls#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@43.207.83.177:443?fp=chrome&path=/&sni=settled-camel.rooster465.autos&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@54.168.208.137:443?path=/&security=tls&sni=communal-troll.rooster465.autos#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?headerType=none&security=tls&sni=www.vk.ru&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@87.121.33.238:443?allowInsecure=0&sni=wanted-marmoset.rooster465.autos#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -35,9 +35,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.175.253:8880?encryption=none&
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.16.101:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://907a940c-bad0-4356-a280-7dec12f1479e@66.253.10.22:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zVJVCkcnyPjMZvx-GMQnnbkEgNiws80sppKB6A0uqBY&security=reality&sid=83dee8596e65d99e&sni=www.bing.com&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://a72a7148-24d8-4494-981d-6dfa96a55020@78.153.131.56:443?allowinsecure=0&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=PpW2d0u6AJyavek1rQ4GMo-oFE51TqpPEBKnKUTlJV4&security=reality&sid=a20d3ed244c76426&sni=kinopoisk.ru&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.219.97.128:13443?flow=xtls-rprx-vision&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://f28e6dc2-3d8b-000a-9de1-b7d32ee653c7@87.242.100.82:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&security=reality&sid=d3d691bb9668&sni=pimg.mycdn.me&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@90.156.218.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=skys3.greatecloud.com&type=raw#%F0%9F%8C%90%20Malaysia%20%7C%20RAW%20%7C%20%40anonymouskeys
 vless://54dfa74e-aa91-4f12-80d3-edcb3626439b@91.234.39.227:42951?alpn=h2,http/1.1,h3&encryption=mlkem768x25519plus.native.0rtt.hr_b27q0xlj8gjjlo_ifjowov8r8r3h6ik5ejnw7exk&fp=chrome&security=tls&sni=parsiran.amirrezamydamane.info&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.203:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://12a57f4b-813d-4e0f-b15f-2234c71fd41d@95.163.249.95:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=m.vk.com&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys

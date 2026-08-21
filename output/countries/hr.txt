@@ -1,5 +1,5 @@
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%8C%90%20Croatia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-trojan://AE62539071@100.22.163.167:443?fp=chrome&path=/&sni=bright-baboon.rooster465.autos&type=tcp#%F0%9F%8C%90%20Croatia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@100.22.163.167:443?fp=chrome&sni=bright-baboon.rooster465.autos#%F0%9F%8C%90%20Croatia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?fp=random&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&security=reality&sid=aabbccdd&sni=ya.ru&type=tcp#%F0%9F%8C%90%20Croatia%20%7C%20Reality%20%7C%20%40anonymouskeys
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click#%F0%9F%8C%90%20Croatia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@52.195.10.183:443?fp=chrome&path=/&sni=improved-anteater.rooster465.autos&type=tcp#%F0%9F%8C%90%20Croatia%20%7C%20TCP%20%7C%20%40anonymouskeys

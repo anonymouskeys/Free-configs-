@@ -13,7 +13,6 @@ trojan://521314@161.33.76.218:8443?host=tjplay.lxdxo.kdns.fr&path=/&security=tls
 trojan://AE62539071@18.179.15.13:443?fp=chrome&path=/&sni=shining-haddock.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://EQ30679154@35.156.13.144:443?path=/&security=tls&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@35.91.138.234:443?fp=chrome&sni=sure-bengal.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://PQ05174892@51.44.167.144:443?fp=chrome#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@52.194.250.73:443?fp=chrome&security=tls&sni=frank-frog.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@52.195.206.148:443?fp=chrome&path=/&security=tls&sni=fair-kingfish.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@54.74.159.195:443?fp=chrome&path=/&security=tls&sni=kind-stork.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -28,6 +27,7 @@ trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-f
 trojan://JA96378052@evident-gnat.rooster465.autos:443?path=/&security=tls&sni=evident-gnat.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FC60532879@fleet-hawk.rooster465.autos:443?security=tls&sni=fleet-hawk.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@fluent-gar.rooster465.autos:443?security=tls&sni=fluent-gar.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ON38567014@fluent-gar.rooster465.autos:443?security=tls&sni=fluent-gar.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ON38567014@grown-rhino.rooster465.autos:443?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=grown-rhino.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=humorous-llama.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -67,7 +67,6 @@ vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?fp=chrome&securi
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.26:443?fp=chrome&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@185.67.126.200:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&security=reality&sni=wise-raptor.cdn.cachefleet.com&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://94f25bc7-1c62-4219-baab-b44acfb4da9c@185.71.67.212:443?allowInsecure=0&alpn=http/1.1&encryption=none&fp=chrome&host=4861b6a1d8.cacheio.ru&insecure=0&path=/api/v2/sync/09f21a21c0&security=tls&sni=4861b6a1d8.cacheio.ru&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@191.101.239.23:443?encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&pbk=Wj3z-pELBGqNcsJXAB8cd0SYd-t1r2C8iBPupqVEDjs&security=reality&sni=us.dataroute.biz&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://NamedZadim@193.93.169.242:53655?encryption=none&path=/&security=none&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.136.11:80/?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.48.11:80/?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
