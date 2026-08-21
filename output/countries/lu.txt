@@ -3,11 +3,11 @@ ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#%F0%9F%8C%90%20Lux
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://EQ30679154@185.244.208.185:443?fp=chrome&path=/&security=tls&sni=striking-cheetah.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@202.78.163.175:443?path=/&security=tls&sni=optimal-urchin.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://FH72359861@3.120.70.66:443?path=/&security=tls#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://FH72359861@3.253.78.205:443?allowInsecure=1&sni=balanced-heron.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://EQ30679154@3.120.70.66:443?fp=chrome&path=/&sni=renewed-porpoise.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://FH72359861@3.253.78.205:443?allowInsecure=1#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@34.220.224.252:443?fp=chrome&path=/&sni=smooth-sculpin.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@35.159.21.7:443?path=/&security=tls#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://PQ05174892@43.207.166.211:443?fp=chrome&path=/&sni=proper-mouse.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@43.207.166.211:443?fp=chrome&path=/&sni=proper-mouse.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@45.130.125.112:443?allowInsecure=0&fp=chrome&insecure=0&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://FH72359861@52.195.215.144:443?allowInsecure=0#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@104.18.27.48:80?encryption=none&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&path=/&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -35,7 +35,6 @@ vless://cd15201c-4fc4-4ae0-b632-cd44563d8508@51.250.73.204:7443?amp%3Bencryption
 vless://588d810f-69d3-4bf2-95de-4fdbcf30f30d@51.250.8.129:4241?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&security=reality&sid=111111&sni=ads.x5.ru&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://1a510ec6-a084-418e-adf9-023dbc8d55bc@51.250.99.49:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-P63w9lGjUCrsgtWlR7qvHGpy93mJSspIvwfXSuVixA&security=reality&sid=a20d3ed244c76426&sni=api-maps.yandex.ru&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://395bab7e-302a-42b4-bac7-8acb7d36fdf3@57.129.130.10:52014?fp=chrome&security=tls&sni=57.129.130.10&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://00b65e0f-0e35-41ba-9429-3a990932e5f1@69.46.46.41:443?allowInsecure=0&alpn=h3&encryption=none&fp=chrome&host=djaflkjdfl-production.up.railway.app&insecure=0&path=/ws/vless/00b65e0f-0e35-41ba-9429-3a990932e5f1%3Fed&security=tls&sni=djaflkjdfl-production.up.railway.app&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://ca0cee79-9920-4bce-aa2a-be89d6d84790@70.34.194.73:8443?fp=chrome&pbk=kQzN2YuAfK6zLF-YnToH8KJsBClM_XPr38Xlzr4Q3Bw&security=reality&sid=c970cd609c52577e&sni=sto-se-ping.vultr.com&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@84.252.130.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=c8597fb67d55d9c4&sni=sun6-21.userapi.com&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@88.148.121.76:443?encryption=none&fp=firefox&mode=gun&pbk=0ffnN7CdnOgEEFJ3AY1lnuTtsOPDL059UaTTxGxDjTA&security=reality&serviceName=home.v1.apiservice&sid=66ffd800ba2ec7c3&sni=eu.oneokgames.com&type=grpc#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20%7C%20%40anonymouskeys

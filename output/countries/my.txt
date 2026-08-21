@@ -1,12 +1,12 @@
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.26:8443?sni=keyhop-offshore.roxa.org#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=t.me#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=https://t.me/clashv8#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?sni=vpn-kr-003.fastervpn.world#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?allowInsecure=1&downmbps=50&insecure=1&sni=speedtest.tinkoff.ru&type=tcp&upmbps=10#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 trojan://AE62539071@13.39.249.40:443?sni=one-quail.rooster465.autos#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@202.78.163.100:443?fp=chrome&path=/&sni=enough-basilisk.rooster465.autos&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://FH72359861@3.113.30.13:443?fp=chrome&path=/&sni=loyal-killdeer.rooster465.autos&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://FH72359861@3.113.30.13:443?path=/&security=tls#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@3.113.6.163:443?path=/&security=tls#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://FH72359861@43.207.83.177:443?fp=chrome&path=/&sni=settled-camel.rooster465.autos&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://FH72359861@43.207.83.177:443?path=/&security=tls#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@54.168.208.137:443?path=/&security=tls&sni=communal-troll.rooster465.autos#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?headerType=none&security=tls&sni=www.vk.ru&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@87.121.33.238:443?allowInsecure=0&sni=wanted-marmoset.rooster465.autos#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys

@@ -4,9 +4,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmF
 trojan://FH72359861@13.115.163.4:443?fp=chrome&path=/&sni=devoted-zebra.rooster465.autos&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@13.115.52.58:443?path=/&security=tls#%F0%9F%8C%90%20Portugal%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://humanity@162.159.91.211:443?fp=chrome&Host=www.calmlunch.com&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://PQ05174892@202.78.163.172:443?fp=chrome&path=/&sni=more-trout.rooster465.autos&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://FH72359861@3.112.250.103:443?fp=chrome&path=/&sni=flexible-pony.rooster465.autos&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://FH72359861@3.113.14.127:443?path=/&security=tls&sni=bright-quagga.rooster465.autos#%F0%9F%8C%90%20Portugal%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@202.78.163.172:443?allow_insecure=0&fp=chrome&headerType=none&path=/&security=tls&sni=more-trout.rooster465.autos&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://FH72359861@3.112.250.103:443?path=/&security=tls#%F0%9F%8C%90%20Portugal%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@3.113.14.127:443?path=/&security=tls#%F0%9F%8C%90%20Portugal%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://77a89d8d-9de3-cf40-bafb-e68f0000001a@104.16.133.220:443?fp=chrome&security=tls&sni=104.16.133.220&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.174.3:443?allowInsecure=0&encryption=none&fp=chrome&host=amoosamiii.net&insecure=0&path=/poiuyws&security=tls&sni=JoinProxyVPN11.amoosamiii.net&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://33918b20-9e02-4dc6-8b30-79b2d4b2e0e6@104.21.22.180:443?fp=chrome&security=tls&sni=104.21.22.180&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -39,7 +39,6 @@ vless://555a098f-06db-427c-a535-4ba284046dbf@93.119.168.26:63443?headerType=none
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&fp=chrome&headerType=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&security=reality&sid=958639bf55e679&sni=yahoo.com&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://8cb093ce-2df7-4a17-8d81-1a079894ff9b@95.163.251.188:1932?encryption=none&fp=chrome&mode=gun&pbk=Uck1bNgjloBxNMAJWkPWcHls5ma82NO8k37LJs9NMEU&security=reality&serviceName=t.me/entrynet&sid=8aeb403dcec2a875&sni=web.max.ru#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?fp=firefox&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&security=reality&sid=c56c3ba3b9f676c5&sni=c.primarymaster.online&type=grpc#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20%7C%20%40anonymouskeys
-vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?encryption=none&mode=gun&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&security=reality&sid=4b&sni=google.com&type=grpc#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?host=app-q0zc4t.user-4gfyh5.workers.dev&packetEncoding=xudp&path=/cmh&security=tls&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@bero-2.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&packetEncoding=xudp&security=tls&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://440d1fb3-7a10-4569-82c2-71602cef26c7@go.ashahan.ir:2036?allowInsecure=0&encryption=none&host=world.ashahan.ir&insecure=0&path=/&security=tls&sni=world.ashahan.ir&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
