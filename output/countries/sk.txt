@@ -3,7 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:
 trojan://humanity@104.16.174.22:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Slovakia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Slovakia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://PQ05174892@13.113.98.210:443?allow_insecure=0&fp=chrome&headerType=none&path=/&security=tls&sni=mighty-lemming.rooster465.autos&type=tcp#%F0%9F%8C%90%20Slovakia%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://EQ30679154@35.91.98.35:443?fp=chrome&path=/&sni=mature-lamprey.rooster465.autos&type=tcp#%F0%9F%8C%90%20Slovakia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://EQ30679154@35.91.98.35:443?path=/&sni=mature-lamprey.rooster465.autos&type=tcp#%F0%9F%8C%90%20Slovakia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@actual-chicken.rooster465.autos:443?fp=chrome&path=/&sni=actual-chicken.rooster465.autos&type=tcp#%F0%9F%8C%90%20Slovakia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@104.167.24.21:443?allowinsecure=0&encryption=none&fp=firefox&mode=gun&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&security=reality&serviceName=api.v1.streamservice&sid=064c2d37308aeeb6&sni=hub.oneoknews.com&type=grpc#%F0%9F%8C%90%20Slovakia%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://73bcd72f-9545-4cb8-8daf-7d004501880d@104.17.123.101:2083?fp=chrome&security=tls&sni=104.17.123.101&type=ws#%F0%9F%8C%90%20Slovakia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
