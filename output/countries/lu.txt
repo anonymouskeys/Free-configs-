@@ -5,7 +5,7 @@ trojan://EQ30679154@185.244.208.185:443?fp=chrome&path=/&security=tls&sni=striki
 trojan://FH72359861@202.78.163.175:443?path=/&security=tls&sni=optimal-urchin.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@3.120.70.66:443?sni=renewed-porpoise.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FH72359861@3.253.78.205:443?allowInsecure=1&sni=balanced-heron.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
-trojan://PQ05174892@34.220.224.252:443?fp=chrome&sni=smooth-sculpin.rooster465.autos#%F0%9F%8C%90%20Luxembourg%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://PQ05174892@34.220.224.252:443?fp=chrome&path=/&sni=smooth-sculpin.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://FH72359861@35.159.21.7:443?allow_insecure=0&fp=chrome&headerType=none&path=/&security=tls&sni=summary-lemming.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@43.207.166.211:443?fp=chrome&path=/&sni=proper-mouse.rooster465.autos&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://humanity@45.130.125.112:443?allowInsecure=0&fp=chrome&insecure=0&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys

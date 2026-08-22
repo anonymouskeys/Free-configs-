@@ -3,6 +3,7 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.168:8080?sni=grape
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%F0%9F%8C%90%20Israel%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%F0%9F%8C%90%20Israel%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@5.188.181.201:9011#%F0%9F%8C%90%20Israel%20%7C%20SS%20%7C%20%40anonymouskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@netixu.mashhad1market.ir:1080#%F0%9F%8C%90%20Israel%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.16.174.148:443?fp=chrome&Host=www.ignitelimit.com&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Israel%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?amp%3BheaderType=none&amp%3Bsni=api.avito.ru&amp%3Btype=tcp&security=tls#%F0%9F%8C%90%20Israel%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://humanity@172.64.152.23:443?fp=chrome&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Israel%20%7C%20WebSocket%20%7C%20%40anonymouskeys

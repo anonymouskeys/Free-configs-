@@ -1,6 +1,7 @@
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.26:8443?sni=keyhop-offshore.roxa.org#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=202.146.222.89#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?sni=vpn-kr-003.fastervpn.world#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443?alpn=h3&insecure=1&mtu=1200&sni=germany1.h2corp.local#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?allowInsecure=1&downmbps=50&insecure=1&sni=speedtest.tinkoff.ru&type=tcp&upmbps=10#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@13.39.249.40:443?sni=one-quail.rooster465.autos#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@202.78.163.100:443?fp=chrome&path=/&sni=enough-basilisk.rooster465.autos&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys

@@ -1,5 +1,5 @@
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@es1.xiaoliyu.cyou:4433?sni=es1.xiaoliyu.cyou#%F0%9F%8C%90%20Australia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?insecure=1#%F0%9F%8C%90%20Australia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?sni=vip-jp-4.hkd4fwmg.vip#%F0%9F%8C%90%20Australia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#%F0%9F%8C%90%20Australia%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%F0%9F%8C%90%20Australia%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K0tHZzFJUENtd291L1Rib3gzNUNENEREZE5Zb0FGTit5d2pTY2gyRjZMRT0@144.24.225.94:61312#%F0%9F%8C%90%20Australia%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -11,7 +11,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19
 trojan://EQ30679154@13.231.123.180:443?fp=chrome&path=/&sni=fair-reptile.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://521314@161.33.76.218:8443?host=tjplay.lxdxo.kdns.fr&path=/&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://AE62539071@18.179.15.13:443?fp=chrome&path=/&sni=shining-haddock.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
-trojan://EQ30679154@35.156.13.144:443?fp=chrome&path=/&sni=normal-cow.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@18.183.140.61:443?fp=chrome&security=tls&sni=harmless-imp.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://EQ30679154@35.156.13.144:443?path=/&security=tls&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PQ05174892@35.91.138.234:443?fp=chrome&sni=sure-bengal.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PQ05174892@51.44.167.144:443?fp=chrome&path=/&sni=immune-earwig.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@52.194.250.73:443?fp=chrome&path=/&sni=frank-frog.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -45,9 +46,11 @@ trojan://XG59623478@stirring-dane.rooster465.autos:443?amp%3Bsni=stirring-dane.r
 trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PI36027154@tight-possum.rooster465.autos:443?allowInsecure=0&headerType=none&insecure=0&security=tls&sni=tight-possum.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://AE62539071@together-dingo.rooster465.autos:443?security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://FH72359861@true-pony.rooster465.autos:443?fp=chrome&security=tls&sni=true-pony.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://PD07395842@true-pony.rooster465.autos:443?security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://PD07395842@true-pony.rooster465.autos:443?peer=true-pony.rooster465.autos&security=tls&sni=true-pony.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=wanted-marmoset.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://AE62539071@wanted-marmoset.rooster465.autos:443?amp%3Bpath=/&amp%3Bsni=wanted-marmoset.rooster465.autos&security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://FC60532879@welcome-labrador.rooster465.autos:443?path=/&security=tls#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.125.218.249:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&security=reality&sid=e53048e82bb20077&sni=asia.cendora.ru&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
