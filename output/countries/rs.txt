@@ -1,10 +1,12 @@
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8080?sni=hopp-legend-se.roxa.org#%F0%9F%8C%90%20Serbia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#%F0%9F%8C%90%20Serbia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1jZmI6dGtoSFZ4eGZNMlFFckJXZQ@217.30.10.44:9062#%F0%9F%8C%90%20Serbia%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.183.124.126:443#%F0%9F%8C%90%20Serbia%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.16.174.143:443?sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://humanity@104.18.152.103:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://humanity@104.18.152.152:443?sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+trojan://humanity@104.18.152.152:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://AE62539071@193.169.239.160:443?fp=chrome&sni=thorough-falcon.rooster465.autos#%F0%9F%8C%90%20Serbia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
+trojan://M7v%25w11Se*@dggg.wsone.icu:443?fp=chrome&security=tls&sni=dggg.wsone.icu&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://2b181a3a-c001-4145-845a-5d43a43837d5@104.17.112.90:2053?fp=chrome&security=tls&sni=104.17.112.90&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://7a657573-82bb-64b7-a31c-f69bfbc17e55@104.17.187.8:443?fp=chrome&security=tls&sni=104.17.187.8&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://656bb400-3b7a-47e3-94b0-0362f3865072@104.18.34.21:8443?fp=chrome&security=tls&sni=104.18.34.21&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -16,7 +18,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.40:8880?sni=154.194.12.4
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&security=reality&sid=d8d3dc6c3ca45dd4&sni=2.oncloudnineservicestreang.com&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?alpn=h3&encryption=none&fp=random&security=tls&sni=vless.hubp.de&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?encryption=none&fp=chrome&path=/&security=tls&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@172.67.75.194:2096?encryption=none&fp=chrome&host=whitecreeper.pages.dev&path=/proxyip%3DProxyIP.SG.CMLiussss.Net&security=tls&sni=whitecreeper.pages.dev&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?allowInsecure=0&encryption=none&host=c7dabe95.proxy-978.pages.dev&insecure=0&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://83c18ff2-0565-4b53-89ad-57357fef153b@172.96.121.6:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=bHGC7iI4Q50nxoYStP3TjBaRXih6O0bmuemexki0aXY&security=reality&sid=29ff8963a9fe281c&sni=www.bing.com&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://539295be-6d5b-4218-8225-aa748ea7dd72@178.250.242.177:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=epYZe69Da_YjY6qYadke7ZgQ64ND3FjVQrgrkqFebG8&security=reality&sid=bf59d3d024eb&sni=tvdesign.ru&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -34,11 +36,10 @@ vless://c659ce22-0a02-4d75-8c89-58d99916b846@45.67.215.233:2053?encryption=none&
 vless://7b9d5ddd-2457-4213-a97a-ab9890f0e0c5@46.101.2.180:443?encryption=none&fp=chrome&path=/farasati1&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&security=reality&sid=1c213fd68e13&sni=www.wikipedia.org&spx=/&type=xhttp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?encryption=none&fp=chrome&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&security=reality&sid=860705e716cbe6ed&sni=www.autodesk.com&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.14.130:443?encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&security=reality&sni=api.company-target.com&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20%7C%20%40anonymouskeys
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://36628fb7-b83f-4f84-827c-462e4b8a7f78@51.250.103.238:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=ads.x5.ru&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://846c5d45-936c-42f6-9120-2d13830d5fa0@51.250.4.181:443?encryption=none&fp=chrome&headerType=none&pbk=t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU&security=reality&sid=4d4421a0bac569&sni=eh.vk.com&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK%3Fed%3D2560&security=none&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?ed=2560&eh=Sec-WebSocket-Protocol&sni=91.193.58.10&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?ed=2560&sni=91.193.58.10&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://26beb784-a664-4c3e-becf-0f0c12568b62@91.193.58.210:80?sni=91.193.58.210&type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.215.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8C%90%20Serbia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@cold-bush-a762.lidrezvpn.workers.dev:8880?type=ws#%F0%9F%8C%90%20Serbia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
