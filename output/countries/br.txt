@@ -1,7 +1,6 @@
 hysteria2://e5gqbtu97umt992j@185.230.44.170:9443#%F0%9F%8C%90%20Brazil%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@nl1.xiaoliyu.cyou:4433?insecure=1#%F0%9F%8C%90%20Brazil%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bDlKNzZNN3N1V2w3dkFQRS80aHlUbVVOcW9JbVdvdW1zWjJmaHVSWDdjST0@136.248.118.107:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@136.248.79.31:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YVQ2cnFONGYwNGZMUlpDVDdEdGkxVmhDdlNheEM2Qzg1Q1VzWFBvSnFlbz0@136.248.80.6:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@136.248.85.81:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -25,7 +24,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.7.158:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.93.150:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.95.165:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Vk5aVTI2eUN1NUoxVGFYUTlJZEphc0tIb3BCVXpjMnh0K0pVbDlFQ0IrZz0@150.230.229.189:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mmd0ZWNyY05YYkxvMXFtRUhJcWVWQm1hQkVhZmpubThYSk11TDJkR1BsUT0@152.67.52.97:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@152.67.55.163:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.114.243:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -38,6 +36,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.65.253:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TzY4eW8rdlk3Z0VjVG9JeXRmS0pHWkNHN2xRa0JXNFZ6c1AxWlhSc1RJVT0@167.234.225.164:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@168.75.108.224:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6czZSWGtuWUxNUzZ2UVBWNmVmUlNvTG9lNDVjOC9QcDErZEI4Q2RmTmxtWT0@168.75.66.122:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZnFYS2hFbXZIZE9VVnFGeU5MbnZ4@creativeboxnl2.zanity.net:5228#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.16.174.46:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Brazil%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -58,7 +57,7 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?fp=chrome&packe
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@168.222.251.122:711?fp=firefox&pbk=ADsaY9WkhwRaspXqF1JUt4Wg_Aw15h8h679K7Kt9GUU&security=reality&sni=who.int&type=grpc#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://11046a7c-fa1b-4653-ab87-400feb465540@172.64.146.37:8880?sni=172.64.146.37&type=ws#%F0%9F%8C%90%20Brazil%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?encryption=none&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#%F0%9F%8C%90%20Brazil%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://ffa431ab-a59b-4092-a418-905fcb1e4d5f@172.67.173.89:443?alpn=http/1.1&encryption=none&fp=chrome&host=s0p42f8wwpdde5tf7m4l6l.ab1x-sn9o4y3n7ondkrd.workers.dev&path=/vl/rYScQPG1EEjxXdswdMEU2b3rM4%3Fed%3D2560&security=tls&sni=s0P42F8wwpdDE5tF7M4l6L.aB1X-Sn9O4y3N7oNdkRd.workeRS.dev&type=ws#%F0%9F%8C%90%20Brazil%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://ffa431ab-a59b-4092-a418-905fcb1e4d5f@172.67.173.89:443?fp=chrome&security=tls&sni=172.67.173.89&type=ws#%F0%9F%8C%90%20Brazil%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.67.69.152:443?fp=chrome&security=tls&sni=vltj.qzz.io&type=ws#%F0%9F%8C%90%20Brazil%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:3443?fp=edge&security=tls&sni=get.wlrus.cfd&type=grpc#%F0%9F%8C%90%20Brazil%20%7C%20gRPC%20%7C%20%40anonymouskeys
 vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:5443?encryption=none&fp=edge&security=tls&sni=get.wlrus.cfd&type=tcp#%F0%9F%8C%90%20Brazil%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -68,7 +67,6 @@ vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@177.3.213.91:8443?encryption=none&f
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?amp%3Bencryption=none&amp%3Bhost=s5.868001.xyz&amp%3Bsecurity=none&amp%3Btype=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B@WangCai2#%F0%9F%8C%90%20Brazil%20%7C%20VLESS%20%7C%20%40anonymouskeys
 vless://5c90ba85-fa28-4437-8561-4fab86beccaa@185.155.96.152:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&security=reality&sid=2186a755ed67b034&sni=nordic.cendora.ru&type=raw#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@191.40.32.97:10007?flow=xtls-rprx-vision&fp=firefox&pbk=uMDcH_hT82rYMOiaYGGPJ5Aa9hk9Sdo2svtRIHBSBFo&security=reality&sid=61e4433c2b25da&sni=www.amd.com&type=tcp#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.12.11:80/?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20Brazil%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?amp%3Bhost=Channel-ELiV2RAY--ELiV2RAY.nET&amp%3Btype=ws&path=/Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048#%F0%9F%8C%90%20Brazil%20%7C%20VLESS%20%7C%20%40anonymouskeys
 vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@199.232.13.32:80?encryption=none&host=Channel----VPNCUSTOMIZE.ir&path=/netherlands/amsterdam/vl/ws/tls&security=none&type=ws#%F0%9F%8C%90%20Brazil%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -113,6 +111,7 @@ vless://4f166057-2f4c-43d8-b5b3-6eb4413022e1@201.51.12.164:8445?encryption=none&
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@201.51.7.202:443?encryption=none&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&security=reality&sid=6c6082a2223c1d03&sni=rutube.ru&type=raw#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://64466fd7-00d0-4e7f-ae47-1749932601da@201.79.2.141:443?alpn=h3,h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=OqBAjoEHKMfHz1bsj1nlRmehz_h_RnnYjHlWdQmK0T8&security=reality&sid=5218bfb83fb5b9b8&sni=play.google.com&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@217.198.12.29:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IU2t096hBC7gAQ_rY1qwYsAtgiegzYI6loivZJxpx1E&security=reality&sid=28e1270764a2464b&sni=alisa.kosmolet.xyz&type=tcp#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
+vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?amp%3Bencryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bfp=firefox&amp%3BheaderType=none&amp%3Bpbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&amp%3Bsid=59ccabb0a1483c4b&amp%3Bsni=www.cloudflare.com&amp%3Btype=tcp&security=reality#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://d4b0cf86-3ea7-4e07-990a-9f9779177a74@38.180.220.203:443/?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1JDBQToOCBK5E6xFwMN71vcSovRrwud3IrII4bEjOzU&security=reality&sid=cbb5927ee4&sni=cloudflare.com&type=tcp#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://0000e293-996d-4c32-99dc-29a8aba80d06@38.180.220.203:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cave.magazinetut.online&type=tcp#%F0%9F%8C%90%20Brazil%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://98895157-4ded-4eeb-a22c-058ed62bdac3@45.12.143.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8C%90%20Brazil%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
