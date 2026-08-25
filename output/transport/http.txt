@@ -1,5 +1,5 @@
+vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?type=http#%F0%9F%8C%90%20Belgium%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://077add45-55fa-4f07-86b2-fed58f189f96@104.105.3.99:53147?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://eace00a6-39df-474d-af49-9ed74d948eba@178.83.226.145:42538?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:8055?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
-vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?encryption=none&fp=chrome&path=/dF6yXt9bRj3Lh2qVp7Nw&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
