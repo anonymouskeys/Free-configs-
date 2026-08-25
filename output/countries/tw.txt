@@ -1,10 +1,11 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.228.168.117:443?downmbps=50&sni=t.me&type=tcp&upmbps=10#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.228.168.117:443?allowInsecure=1&downmbps=50&insecure=1&sni=css.rbxcdn.com&type=tcp&upmbps=10#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
 hysteria2://f4ae05bcb9528779a8469ee5d352a817@34.80.120.225:50160?allowInsecure=1&downmbps=50&insecure=1&sni=vk.com&type=tcp&upmbps=10#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@lmny.mangshe.xyz:2056?sni=lmny.mangshe.xyz#%F0%9F%8C%90%20Taiwan%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.13.29:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.8.182:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.8.186:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.8.198:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@114.25.9.245:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@137.184.174.93:8080#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -28,6 +29,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjU2YWVhYS04ZTJkLTRiZGYtYjFkNy0yMzNlY2NhMTVmNTY@namrcg001640lrm.cybervena.com:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg000116egb.cybervena.com:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001287h3p.cybervena.com:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@r3mrcg001287h3p.cybervena.com:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@r3mrcg00129437x.cybervena.com:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -103,7 +105,7 @@ vless://e927758e-3149-450b-b9a0-45321c946315@8.6.112.80:2095?encryption=none&hos
 vless://6249321c-4457-4166-b040-3276f3b9c9b5@82.115.8.121:53437?encryption=none&host=lion-game.ir&path=/&security=none&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://26524cce-d514-4014-a426-365fb266a14d@82.152.91.210:443?allowInsecure=0&alpn=http/1.1,&encryption=none&fp=firefox&host=wgl.cdn-c.gfw.qzz.io&insecure=0&path=/danfeng-jh5qzt-fk3fns-mqcd-34e34dzl%3Fed%3D2560&security=tls&sni=wgl.cdn-c.gfw.qzz.io&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@82.152.91.210:443?fp=chrome&host=s5gydl.936.us.ci&path=/proxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@84.238.133.104:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6aa2d2e950441a9a&sni=swed2.helper-internet.com&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@84.238.133.104:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6aa2d2e950441a9a&sni=swed2.helper-internet.com&spx=/&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.30:8880?sni=88.216.67.30&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.179.81:41647?encryption=none&type=grpc#%F0%9F%8C%90%20Taiwan%20%7C%20gRPC%20%7C%20%40anonymouskeys
 vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:7443?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
@@ -112,7 +114,6 @@ vless://485717cf-e96c-40db-9bc1-624060b89f20@92yqc126g8qwe6v23n01.haiyucloud.com
 vless://485717cf-e96c-40db-9bc1-624060b89f20@92yqc126g8qwe6v23n01.haiyucloud.com:42002?flow=xtls-rprx-vision&fp=chrome&pbk=i0nN_0uLl5ha8pIf6gNNLeLQe7it-nXDFLC5eM1BHV4&security=reality&sid=bb9b8f5f&sni=www.python.org#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://485717cf-e96c-40db-9bc1-624060b89f20@92yqc126g8qwe6v23n01.haiyucloud.com:49475?flow=xtls-rprx-vision&fp=chrome&pbk=i0nN_0uLl5ha8pIf6gNNLeLQe7it-nXDFLC5eM1BHV4&security=reality&sid=bb9b8f5f&sni=www.python.org#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://485717cf-e96c-40db-9bc1-624060b89f20@92yqc126g8qwe6v23n01.haiyucloud.com:50567?flow=xtls-rprx-vision&fp=chrome&pbk=i0nN_0uLl5ha8pIf6gNNLeLQe7it-nXDFLC5eM1BHV4&security=reality&sid=bb9b8f5f&sni=www.python.org#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@94.183.228.193:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.cybo.com&spx=/&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557?encryption=none&headerType=http&host=dns.google.com&security=none&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://f8cd4c3c-545e-4185-aa27-9ef3530d6ee9@9g96ulhy68.ly123.edu.kg:11881?encryption=none&flow=xtls-rprx-vision&fp=ios&mode=multi&pbk=eJHb904bazGlisGUB6vo9BNkg7M4QDWVVrePL5yfBDY&security=reality&servername=dlcdnets.asus.com&sid=f7141beeea&sni=dlcdnets.asus.com&spx=/&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://52faee73-e0fe-4661-992d-67259257170f@bypass.uk-gthost-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys

@@ -1,5 +1,5 @@
 hysteria2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.130:443?security=tls#%F0%9F%8C%90%20Thailand%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%8C%90%20Thailand%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8080?sni=grape-turbo-fr.roxa.org#%F0%9F%8C%90%20Thailand%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEOGZnblIyOE1jVGJneEVuU0d3WmZQQVlHUEpEWXNlWnZKZlRDazh0dmVvPQ@119.59.116.169:41911#%F0%9F%8C%90%20Thailand%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.17.121.71:443?fp=chrome&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Thailand%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&sni=157.85.102.28&type=raw#%F0%9F%8C%90%20Thailand%20%7C%20RAW%20%7C%20%40anonymouskeys

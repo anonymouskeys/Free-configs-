@@ -7,7 +7,6 @@ trojan://humanity@2.144.15.223:40443?allowInsecure=1&host=www.ignitelimit.com&pa
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?security=tls&sni=37.235.49.118&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?amp%3BallowInsecure=0&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Btype=tcp&security=tls#%F0%9F%8C%90%20Iceland%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://humanity@45.130.125.160:443?fp=chrome&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@85.159.228.177:443?path=/&sni=tr-latvia1.unlimited-access.ru#%F0%9F%8C%90%20Iceland%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.129.165.238:2096?encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.145.254:443?alpn=h2&encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&type=grpc#%F0%9F%8C%90%20Iceland%20%7C%20gRPC%20%7C%20%40anonymouskeys
 vless://50414e45-4c5f-5a45-5553-cea58e4acf49@104.18.74.66:80?fragment=tlshello,5,94,1,0&fragment2=1-1,109,1,1,355&sni=104.18.74.66&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -18,6 +17,7 @@ vless://11046a7c-fa1b-4653-ab87-400feb465540@172.64.147.205:8880?sni=172.64.147.
 vless://d33cc776-9c57-4ea3-8c5a-6d85043029d7@172.67.69.129:8880?sni=172.67.69.129&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?fp=chrome&security=tls&sni=172.67.78.254&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://8638521a-7d64-4ad0-9112-83aa1fc19867@175.195.149.58:10280?fp=chrome&security=tls&sni=175.195.149.58&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@185.119.19.105:443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u643766u757d49e4s8746.gogocs.xyz&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?encryption=none&host=bama.ir.usa.cdnir.org&path=/news&security=none&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=/&security=none&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://5c5a466e-f2e0-4211-8963-742afac24948@185.247.226.138:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=/xiron&security=tls&sni=netmelivip.dpdns.org&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
