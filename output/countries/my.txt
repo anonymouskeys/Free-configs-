@@ -1,6 +1,7 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=202.146.222.89#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8080?sni=grape-turbo-fr.roxa.org#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://9dfa1d8a-d75d-44d8-80a9-8cb1cbb24caa@de.143259.xyz:43523?allowInsecure=0&insecure=0&sni=de.143259.xyz#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://9dfa1d8a-d75d-44d8-80a9-8cb1cbb24caa@de.143259.xyz:43523?sni=de.143259.xyz#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mlxy.mangshe.xyz:2060?insecure=1&sni=mlxy.mangshe.xyz#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?headerType=none&security=tls&sni=www.vk.ru&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://0d93b787-b66b-4696-a036-a0f549764f69@103.130.145.44:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CL1sSD1RH6k_68fMSltXd2-GhJQ-CX02VSBryK6rjmo&security=reality&sid=12393b8b177a063d&sni=tr.fasti.win&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
