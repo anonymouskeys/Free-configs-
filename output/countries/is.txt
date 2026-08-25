@@ -1,7 +1,8 @@
+hysteria2://b4c65d3711d27d46f32263f1dd9caf48@151.145.65.190:50160?insecure=1&sni=www.bing.com#%F0%9F%8C%90%20Iceland%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443?security=tls#%F0%9F%8C%90%20Iceland%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRU5oeXFaVm5vRVN1aGU5TGRyT0EvLzJMVmh6Ymo0RnMwZWVraHppZHA4PQ@185.213.195.33:2052?type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://humanity@104.16.174.124:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-trojan://humanity@104.16.73.213:443?fp=chrome&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+trojan://humanity@104.16.73.213:443?sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://humanity@2.144.15.223:40443?allowInsecure=1&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?security=tls&sni=37.235.49.118&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?amp%3BallowInsecure=0&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Btype=tcp&security=tls#%F0%9F%8C%90%20Iceland%20%7C%20TROJAN%20%7C%20%40anonymouskeys
@@ -11,6 +12,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.145.254:443?alpn=h2&encrypti
 vless://50414e45-4c5f-5a45-5553-cea58e4acf49@104.18.74.66:443?fp=chrome&fragment=tlshello,5,94,1,0&fragment2=1-1,109,1,1,355&security=tls&sni=104.18.74.66&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://af563223-7402-4ecd-bbf9-10f7410753fa@104.21.58.104:443?fp=chrome&security=tls&sni=ld.242311.xyz&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://497631c4-a1a4-0045-a86a-f42873473bb6@151.236.24.67:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
+vless://85cc845e-644c-0045-8288-f0c03c83c1ec@151.236.24.67:8443?flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://85cc845e-644c-0045-8288-f0c03c83c1ec@151.236.24.67:8443?flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://11046a7c-fa1b-4653-ab87-400feb465540@172.64.147.205:8880?sni=172.64.147.205&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://d33cc776-9c57-4ea3-8c5a-6d85043029d7@172.67.69.129:8880?sni=172.67.69.129&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -32,6 +34,7 @@ vless://6670529b-265a-4ee9-b944-bdaee2638ef2@62.60.177.167:443?encryption=none&f
 vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=0B7XMJC-mBqvUkf_on0wPZeW1iVmZIbEPVyvz-V_jRI&security=reality&sid=60d7a9bbacadc0fb&sni=www.googletagmanager.com&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&security=reality&serviceName=app.v1.pushservice&sid=aa9884f2982b7d3c&sni=md5.univesalsrv.com&type=grpc#%F0%9F%8C%90%20Iceland%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://5a9a33eb-546c-4ffa-aadc-1c75b3ac084b@91.247.177.208:443?alpn=h3,h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=vy1.sangar.net&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20TCP%20%7C%20%40anonymouskeys
+vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-03.fuck-rkn.dev:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://af563223-7402-4ecd-bbf9-10f7410753fa@ld.242311.xyz:443?host=ld.242311.xyz&path=/&security=tls&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://292929@nessilkavtgk:443?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://dac39064-9850-44e5-b8af-08c5ca0ee15f@neww.blueheartz.ir:2233?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=zRzoNR3p8DZIf2Sdpzb2Ooi3dDAYo8E1LLPkaXMK3wk&security=reality&sid=beb4ab1bb8df58ba&sni=play.google.com&spx=/49a81c78d045d77&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
