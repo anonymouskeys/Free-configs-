@@ -1,7 +1,7 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=202.146.222.89#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8080/?sni=grape-turbo-fr.roxa.org#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mlxy.mangshe.xyz:2060?insecure=1&sni=mlxy.mangshe.xyz#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?sni=speedtest.tinkoff.ru#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#%F0%9F%8C%90%20Malaysia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#%F0%9F%8C%90%20Malaysia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?headerType=none&security=tls&sni=www.vk.ru&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://0d93b787-b66b-4696-a036-a0f549764f69@103.130.145.44:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CL1sSD1RH6k_68fMSltXd2-GhJQ-CX02VSBryK6rjmo&security=reality&sid=12393b8b177a063d&sni=tr.fasti.win&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
@@ -38,7 +38,7 @@ vless://54dfa74e-aa91-4f12-80d3-edcb3626439b@91.234.39.227:42951?alpn=h2,http/1.
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.203:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://12a57f4b-813d-4e0f-b15f-2234c71fd41d@95.163.249.95:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=m.vk.com&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://7456a064-ba90-4383-aa73-074749bdfead@95.163.250.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=sun6-21.userapi.com&type=tcp#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://50414e45-4c5f-5a45-5553-9b0ee99e36dd@ez-abcc2c.igunsjgjnfgn.workers.dev:2096?fp=chrome&security=tls&type=ws#%F0%9F%8C%90%20Malaysia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://50414e45-4c5f-5a45-5553-9b0ee99e36dd@ez-abcc2c.igunsjgjnfgn.workers.dev:2053?fp=chrome&security=tls&type=ws#%F0%9F%8C%90%20Malaysia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://8d05cda5-c9ba-43cf-846e-b9521b872c71@wwhgbmxaycrqwzxhfa.cfooov.xyz:32178?flow=xtls-rprx-vision&fp=chrome&pbk=MrBX-OPkFMp19rzgSbungdUFdoUSXAg7phFfeowkvxo&security=reality&sid=9c01c7e98b93e683&sni=www.apple.com&type=raw#%F0%9F%8C%90%20Malaysia%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://220046c3-0081-4c22-a648-83a52bc3a0d5@yellow-sky-38b3.154-d73.workers.dev:8880?type=ws#%F0%9F%8C%90%20Malaysia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vmess://eyJhZGQiOiIxNjYuODguMzUuMTI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFjM2U3MDVlLTM3MTMtNDBiMC1jMGZlLTAzNDJjMzI4ZWVkMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hYzNlNzA1ZSIsInBvcnQiOiIyNzUzMyIsInBzIjoi8J-MkCBNYWxheXNpYSB8IFdlYlNvY2tldCB8IEBhbm9ueW1vdXNrZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
