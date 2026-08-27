@@ -2,4 +2,5 @@ vless://0ed9a248-f693-46c1-ba1b-91d0a6dfa6a5@ser-dashboard-6a8c523b-1534-83eb-af
 vless://077add45-55fa-4f07-86b2-fed58f189f96@104.105.3.99:53147?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://ca09651d-fb31-437c-b356-84df10c1e97d@138.201.159.12:28353?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://eace00a6-39df-474d-af49-9ed74d948eba@178.83.226.145:42538?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
