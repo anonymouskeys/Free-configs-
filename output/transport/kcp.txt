@@ -1,0 +1,4 @@
+vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@ru5.cdn-global.pro:443?type=kcp#%F0%9F%8C%90%20United%20Arab%20Emirates%20%7C%20KCP%20%7C%20%40anonymouskeys
+vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@ee3.cdn-global.pro:443?type=kcp#%F0%9F%8C%90%20Mexico%20%7C%20KCP%20%7C%20%40anonymouskeys
+vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@pl.global-cdn.org:443?type=kcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20KCP%20%7C%20%40anonymouskeys
+vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@se-s3.global-cdn.org:443?type=kcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20KCP%20%7C%20%40anonymouskeys

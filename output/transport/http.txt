@@ -1,6 +1,6 @@
-vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@bulgauryexi.horlutr.ir:2087?method=GET&sni=/&type=http#%F0%9F%8C%90%20Belgium%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://0ed9a248-f693-46c1-ba1b-91d0a6dfa6a5@ser-dashboard-6a8c523b-1534-83eb-afd0-19a157913d5f.iramkemaxyu.ir:443?encryption=none&fp=chrome&headerType=none&mode=stream-up&path=/&pbk=pfPkmGdr3k9jKAov3mjdc_DXROO9fl4jK1FpBsJqujk&security=reality&sid=e9518e9cb0754976&sni=us.demonware.net&spx=/store&type=http#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://077add45-55fa-4f07-86b2-fed58f189f96@104.105.3.99:53147?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://4b841919-b6e0-4dd5-887b-56911d2d63b0@204.10.194.82:56539?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://c4ee7a89-eb01-462c-84d2-67e3fcdd5812@myleto.orangesms.ir:61169?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?encryption=none&fp=chrome&path=/dF6yXt9bRj3Lh2qVp7Nw&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
