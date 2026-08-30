@@ -2,5 +2,6 @@ vless://0ed9a248-f693-46c1-ba1b-91d0a6dfa6a5@ser-dashboard-6a8c523b-1534-83eb-af
 vless://077add45-55fa-4f07-86b2-fed58f189f96@104.105.3.99:53147?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://4b841919-b6e0-4dd5-887b-56911d2d63b0@204.10.194.82:56539?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://6aee447d-a7f5-4aa6-be7a-5999ab69e406@digikala.topdigit.ir:34770?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://c4ee7a89-eb01-462c-84d2-67e3fcdd5812@myleto.orangesms.ir:61169?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
-vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?encryption=none&fp=chrome&path=/dF6yXt9bRj3Lh2qVp7Nw&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
+vless://b719fff1-ad00-4816-b42d-5007eaa2c4ff@n.fars-remen.ir:62510?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
