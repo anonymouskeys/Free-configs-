@@ -1,5 +1,4 @@
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#%F0%9F%8C%90%20Mexico%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.1.222:443?insecure=1&sni=t.me#%F0%9F%8C%90%20Mexico%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWDE4NFlrS3REczQxYW9LRFFMVG1NelVFbzIrdWZkR1dhSXBPUzFyRUJJPQ@185.84.158.13:19964#%F0%9F%8C%90%20Mexico%20%7C%20SS%20%7C%20%40anonymouskeys
 vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@104.27.58.136:8443?allowInsecure=0&alpn=h3,h2,http/1.1&encryption=none&host=panel.berzulo.ir&insecure=0&path=/&security=tls&sni=panel.berzulo.ir&type=ws#%F0%9F%8C%90%20Mexico%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://71031aa1-067e-425e-97f5-37875f838a10@109.120.189.53:4443?fp=chrome&pbk=Ot4y5S3IuvQwddN-1yWq2lbz_qna6OoGoHgg3M_PujI&security=reality&sid=be5f36d91c&sni=eh.vk.com&type=tcp#%F0%9F%8C%90%20Mexico%20%7C%20Reality%20%7C%20%40anonymouskeys
