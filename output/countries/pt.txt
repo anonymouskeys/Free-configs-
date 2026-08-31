@@ -1,3 +1,4 @@
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.153.59.21:443?insecure=1&sni=vpn-de-001.fastervpn.world#%F0%9F%8C%90%20Portugal%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmFsTDBNeUxnZUkwPQ@91.186.193.50:56985?type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&fp=android&insecure=1&security=tls&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.174.3:443?allowInsecure=0&encryption=none&fp=chrome&host=amoosamiii.net&insecure=0&path=/poiuyws&security=tls&sni=JoinProxyVPN11.amoosamiii.net&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -7,7 +8,6 @@ vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@152.233.62.135:443?encryption=none&
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@152.233.62.135:9443?fp=firefox&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&security=reality&serviceName=grpc&sid=87922049&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.29:8880?encryption=none&host=hk.laoyoutiao.link&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3+@MxlShare+@WangCai2+/%3Fed%3D2560&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.30:8880?host=vms.lifetime54.workers.dev&path=/&security=none&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?encryption=none&host=vms.lifetime59.workers.dev&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://c3ef0f28-7123-4dd5-aa69-6a99b13fa65f@178.250.243.23:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&security=reality&sid=da5f84e85736f625&sni=max.ru&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?allowInsecure=0&encryption=none&host=hhlfy.twiladaphne.ndjp.net&insecure=0&path=/sg-melbi&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
