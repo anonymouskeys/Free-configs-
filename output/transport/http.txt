@@ -1,6 +1,5 @@
 vless://0ed9a248-f693-46c1-ba1b-91d0a6dfa6a5@ser-dashboard-6a8c523b-1534-83eb-afd0-19a157913d5f.iramkemaxyu.ir:443?encryption=none&fp=chrome&headerType=none&mode=stream-up&path=/&pbk=pfPkmGdr3k9jKAov3mjdc_DXROO9fl4jK1FpBsJqujk&security=reality&sid=e9518e9cb0754976&sni=us.demonware.net&spx=/store&type=http#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://077add45-55fa-4f07-86b2-fed58f189f96@104.105.3.99:53147?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
-vless://a6cc3164-87d8-5a1e-9e89-4a2d8a81450f@144.124.226.216:443?encryption=none&fp=chrome&mode=auto&path=/&pbk=JkU5Vn1pM0jelR62NIqNwbE-b6Xs4kx-Vc6F-qNq1Fo&security=reality&sid=e359&sni=ozon.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://77984ae0-58cb-4bf3-9fe4-346043bf71b2@5.75.201.211:56539?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.119:443?security=tls&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
