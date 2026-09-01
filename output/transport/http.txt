@@ -1,9 +1,10 @@
 vless://0ed9a248-f693-46c1-ba1b-91d0a6dfa6a5@ser-dashboard-6a8c523b-1534-83eb-afd0-19a157913d5f.iramkemaxyu.ir:443?encryption=none&fp=chrome&headerType=none&mode=stream-up&path=/&pbk=pfPkmGdr3k9jKAov3mjdc_DXROO9fl4jK1FpBsJqujk&security=reality&sid=e9518e9cb0754976&sni=us.demonware.net&spx=/store&type=http#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://077add45-55fa-4f07-86b2-fed58f189f96@104.105.3.99:53147?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
-vless://328c690b-6e08-5b45-b82d-ba4010192194@144.124.226.216:443?fp=chrome&path=/&pbk=JkU5Vn1pM0jelR62NIqNwbE-b6Xs4kx-Vc6F-qNq1Fo&security=reality&sid=c8ea649c63208b&sni=ozon.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://77984ae0-58cb-4bf3-9fe4-346043bf71b2@5.75.201.211:56539?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.119:443?security=tls&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://6aee447d-a7f5-4aa6-be7a-5999ab69e406@digikala.topdigit.ir:34770?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://c4ee7a89-eb01-462c-84d2-67e3fcdd5812@myleto.orangesms.ir:61169?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://b719fff1-ad00-4816-b42d-5007eaa2c4ff@n.fars-remen.ir:62510?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://3c8e52ef-30f6-4a51-9fe9-5afeeb0a7fa2@neth1.mechanicir.ir:38479?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?encryption=none&fp=chrome&path=/dF6yXt9bRj3Lh2qVp7Nw&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
