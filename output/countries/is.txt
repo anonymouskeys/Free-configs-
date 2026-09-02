@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRU5oeXFaVm5vRVN1aGU5TGRyT0EvLzJMVmh6Ymo0RnMwZWVraHppZHA4PQ@185.213.195.33:2052?type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20SS%20%7C%20%40anonymouskeys
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%8C%90%20Iceland%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?security=tls&sni=37.235.49.118&type=tcp#%F0%9F%8C%90%20Iceland%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?amp%3BallowInsecure=0&amp%3BheaderType=none&amp%3Binsecure=0&amp%3Btype=tcp&security=tls#%F0%9F%8C%90%20Iceland%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.129.165.238:2096?encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%8C%90%20Iceland%20%7C%20WebSocket%20%7C%20%40anonymouskeys
