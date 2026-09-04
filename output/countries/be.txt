@@ -1,3 +1,4 @@
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8C%90%20Belgium%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%8C%90%20Belgium%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.187.251.2:1080#%F0%9F%8C%90%20Belgium%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@bl1.levikogjgfdd.ir:1080#%F0%9F%8C%90%20Belgium%20%7C%20SS%20%7C%20%40anonymouskeys
