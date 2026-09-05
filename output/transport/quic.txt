@@ -23,9 +23,9 @@ hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@85.159.228.22:443/?sni=hy2-latvia2.
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://oCYFcbOo8s@201.51.24.4:443/?sni=hys22.wba-pn.ru#%F0%9F%8C%90%20Greece%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#%F0%9F%8C%90%20Hong%20Kong%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.111.166:443?insecure=1&sni=css.rbxcdn.com#%F0%9F%8C%90%20Hong%20Kong%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#%F0%9F%8C%90%20Hungary%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://436114b5f36b2e704bdfa0927d57b6cd@47.241.108.227:50160?insecure=1&sni=www.bing.com#%F0%9F%8C%90%20Hungary%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?insecure=1#%F0%9F%8C%90%20Hungary%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://BWAFlp8g53@72.56.102.31:443/?insecure=1#%F0%9F%8C%90%20Indonesia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=css.rbxcdn.com#%F0%9F%8C%90%20Ireland%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=127.0.0.1#%F0%9F%8C%90%20Ireland%20%7C%20QUIC%20%7C%20%40anonymouskeys
@@ -37,7 +37,6 @@ hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443/?insecure=1&s
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?insecure=1&sni=hopp-romania-new.roxa.org#%F0%9F%8C%90%20India%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@144.31.221.57:443/?insecure=1&sni=player.wwwinternetvideo.click#%F0%9F%8C%90%20Italy%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?insecure=1&sni=155.248.209.237#%F0%9F%8C%90%20Italy%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443?insecure=1&sni=vk.com#%F0%9F%8C%90%20South%20Korea%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#%F0%9F%8C%90%20Kazakhstan%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://T$me$V2RayyNGvpn@70.34.205.15:443?allowInsecure=1&insecure=1&obfs=salamander&obfs-password=T.me%24V2RayyNGvpn&sni=www.wordreference.com#%F0%9F%8C%90%20Kazakhstan%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#%F0%9F%8C%90%20Luxembourg%20%7C%20QUIC%20%7C%20%40anonymouskeys
@@ -48,9 +47,10 @@ hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%F0%9F%87%B3
 hysteria2://sxc15led4b0vp5fy@nrealistic.nn-foto.ru:1935?alpn=h3&fp=edge&obfs=salamander&obfs-password=lhfl2z9mjngb7csh&security=tls&sni=nrealistic.nn-foto.ru#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.239:8443?sni=hopp-legend-se.roxa.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?sni=hopp-romania-new.roxa.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?sni=hopp-germany-new.ddnsguru.com#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.175:8443?sni=hopp-netherland-new.dynuddns.net#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?sni=hopp-romania-new.roxa.org#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443/?sni=hopp-legend-se.roxa.org#%F0%9F%8C%90%20Serbia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#%F0%9F%8C%90%20Serbia%20%7C%20QUIC%20%7C%20%40anonymouskeys
@@ -65,7 +65,6 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443/?sni=grap
 hysteria2://EkF2Yw0Lc7@72.56.16.243:443/?insecure=1&sni=hys34.wba-pn.ru#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#%F0%9F%8C%90%20Thailand%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=130.61.50.75#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=www.bing.com#%F0%9F%8C%90%20Taiwan%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://OD6gGbGU9a@195.133.24.124:443/?sni=hys26.wba-pn.ru#%F0%9F%8C%90%20Ukraine%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https://t.me/oneclickvpnkeys#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443?sni=vk.com#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
@@ -87,6 +86,7 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443/?insecure
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.147:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443?sni=vk.com#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443?sni=vk.com#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://aff3077c544f1b96@65.49.201.167:443?insecure=1&sni=bing.com#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://wrSuBorIlf@72.56.116.57:443/?insecure=1#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://CnVfXXvMzh@72.56.92.120:443/?insecure=1&sni=hys13.wba-pn.ru#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://Telegram%40vpnjey@77.110.96.201:36264?obfs=salamander&obfs-password=Telegram@vpnjey&sni=vk.com#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
@@ -94,10 +94,10 @@ hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443/?insecur
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=css.rbxcdn.com#%F0%9F%8C%8D%20Unknown%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8443/?sni=grape-turbo-fr.roxa.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1&security=tls&sni=che01plrhy01.tcp-reset-club.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?insecure=1&security=tls&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52023?alpn=h3&insecure=0&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@labs.frkn.org:443?insecure=1&sni=labs.frkn.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&sni=nl01ntrhy01.tcp-reset-club.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@rou0001ntrhy01.tcp-reset-club.net:443?insecure=1&sni=rou0001ntrhy01.tcp-reset-club.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20QUIC%20%7C%20%40anonymouskeys
