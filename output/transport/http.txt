@@ -1,6 +1,6 @@
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.62.132:443?allowInsecure=1&encryption=none&security=none&type=http#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://0ed9a248-f693-46c1-ba1b-91d0a6dfa6a5@ser-dashboard-6a8c523b-1534-83eb-afd0-19a157913d5f.iramkemaxyu.ir:443?encryption=none&fp=chrome&headerType=none&mode=stream-up&path=/&pbk=pfPkmGdr3k9jKAov3mjdc_DXROO9fl4jK1FpBsJqujk&security=reality&sid=e9518e9cb0754976&sni=us.demonware.net&spx=/store&type=http#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@178.72.167.151:443?alpn=h2&encryption=none&fp=firefox&host=2gis.ru&mode=auto&path=/eCuiEa7kedJ1UIGB3Gbgdt3XeUd&pbk=54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8&security=reality&sid=d45603&sni=2gis.ru&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.119:443?security=tls&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://b719fff1-ad00-4816-b42d-5007eaa2c4ff@n.fars-remen.ir:62510?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://6cb9b3d9-e7d4-46b1-96ce-85270b0778a0@njh.fars-remen.ir:32133?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
