@@ -5,4 +5,5 @@ vless://6fc302a0-3944-4eb9-8a10-676693e10ca3@fr.one.hello.mobileahmadreza.ir:209
 vless://b719fff1-ad00-4816-b42d-5007eaa2c4ff@n.fars-remen.ir:62510?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://6cb9b3d9-e7d4-46b1-96ce-85270b0778a0@njh.fars-remen.ir:32133?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://b487f9b9-904b-4d47-9a0b-f00b046fb7d1@route-1.s1n4-nexu.ir:2083?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@vdx.tarnishedking.ir:1060?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://b487f9b9-904b-4d47-9a0b-f00b046fb7d1@warp-2.s1n4-nexu.ir:32005?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
