@@ -1,3 +1,5 @@
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?allowInsecure=1&downmbps=50&insecure=1&sni=vk.com&type=tcp&upmbps=10#%F0%9F%8C%90%20Romania%20%7C%20TCP%20%7C%20%40anonymouskeys
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?allowInsecure=1&downmbps=50&insecure=1&sni=google.com&type=tcp&upmbps=10#%F0%9F%8C%90%20Romania%20%7C%20TCP%20%7C%20%40anonymouskeys
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com#%F0%9F%8C%90%20Romania%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA@82.152.132.103:1080#%F0%9F%8C%90%20Romania%20%7C%20SS%20%7C%20%40anonymouskeys
