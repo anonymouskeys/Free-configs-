@@ -3,6 +3,7 @@ vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.119:443?security=tls&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@dashboard-tr-gameservice.iramnew4.ir:32306?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://b487f9b9-904b-4d47-9a0b-f00b046fb7d1@route-1.s1n4-nexu.ir:2083?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
+vless://1ab5ef70-14af-428b-bf4b-03889e0a3131@snnsjsowowiwueieyeye.sobu.ir:14779?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://ef04fed2-399b-4533-b423-f92c8cb66234@technolife.topdigit.ir:34770?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://c9c64c4b-c12a-4673-be52-21c080ac07a1@vdx.tarnishedking.ir:1060?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://b487f9b9-904b-4d47-9a0b-f00b046fb7d1@warp-2.s1n4-nexu.ir:32005?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
