@@ -1,5 +1,6 @@
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%F0%9F%8C%90%20Brazil%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.183:8443/?sni=hopp-romania-new.roxa.org#%F0%9F%8C%90%20Brazil%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1&sni=mlxy2.mangshe.xyz#%F0%9F%8C%90%20Brazil%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@136.248.79.31:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YVQ2cnFONGYwNGZMUlpDVDdEdGkxVmhDdlNheEM2Qzg1Q1VzWFBvSnFlbz0@136.248.80.6:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@136.248.85.81:59319#%F0%9F%8C%90%20Brazil%20%7C%20SS%20%7C%20%40anonymouskeys
