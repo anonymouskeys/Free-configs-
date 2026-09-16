@@ -19,6 +19,7 @@ trojan://FC60532879@fleet-hawk.rooster465.autos:443?security=tls&sni=fleet-hawk.
 trojan://FH72359861@fluent-gar.rooster465.autos:443?security=tls&sni=fluent-gar.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ON38567014@fluent-gar.rooster465.autos:443?security=tls&sni=fluent-gar.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
 trojan://ON38567014@grown-rhino.rooster465.autos:443?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=grown-rhino.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
+trojan://7a657573-a2be-8079-c204-93ad9047f088@hoseinwave.ir:443?allowInsecure=0&fp=unsafe&host=v5zbqbeguufs.ntkz7ofcma4sp2jzphvhad34v4n6adte.workers.dev&insecure=0&path=/stream/PANEL_ZEUS/93ad9047f088&security=tls&sni=v5zbqbeguufs.ntkz7ofcma4sp2jzphvhad34v4n6adte.workers.dev&type=ws#%F0%9F%8C%90%20Australia%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=humorous-llama.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://ON38567014@national-stingray.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=national-stingray.rooster465.autos&type=tcp#%F0%9F%8C%90%20Australia%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#%F0%9F%8C%90%20Australia%20%7C%20TROJAN%20%7C%20%40anonymouskeys
