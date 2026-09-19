@@ -1,4 +1,4 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443?insecure=1&sni=t.me#%F0%9F%8C%90%20Kazakhstan%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#%F0%9F%8C%90%20Kazakhstan%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:443#%F0%9F%8C%90%20Kazakhstan%20%7C%20SS%20%7C%20%40anonymouskeys
 trojan://vpn@45.82.14.144:2025?amp%3Bhost=dns.google.com&amp%3Bpath=/&type=ws#%F0%9F%8C%90%20Kazakhstan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://vpn@45.82.14.144:2025?host=dns.google.com&path=/&type=ws#%F0%9F%8C%90%20Kazakhstan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
@@ -80,7 +80,6 @@ vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@5.180.42.103:443?flow=xtls-rprx-vis
 vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@5.180.42.202:6443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=41444f03bd84a905&sni=ign.com&type=tcp#%F0%9F%8C%90%20Kazakhstan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://419e8d73-db47-4614-b54b-e707cf7df35c@5.180.43.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k7dworBISiOlCzqSKN29SWJoYDLN71QT6uS14v86pEo&security=reality&sid=a1b2c3d4&sni=ya.ru&type=tcp#%F0%9F%8C%90%20Kazakhstan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://7d641c2e-6897-4b9f-8a82-3f0cc8980db1@5.180.52.186:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=magazinetut.online&type=tcp#%F0%9F%8C%90%20Kazakhstan%20%7C%20TCP%20%7C%20%40anonymouskeys
-vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@5.181.109.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=19aa22f681923dc8&sni=dzen-ru-1.com&type=raw#%F0%9F%8C%90%20Kazakhstan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://cabd9303-ae32-4d25-86b9-26b312d0f044@5.35.81.60:4443?encryption=none&fp=chrome&mode=gun&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&security=reality&serviceName=snob-grpc-de&sid=e5f6a1b2&sni=maps.apple.com&type=grpc#%F0%9F%8C%90%20Kazakhstan%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://cabd9303-ae32-4d25-86b9-26b312d0f044@5.35.81.60:4443?encryption=none&fp=chrome&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&security=reality&serviceName=snob-grpc-de&sid=e5f6a1b2&sni=maps.apple.com&type=grpc#%F0%9F%8C%90%20Kazakhstan%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@5.35.81.60:4443?fp=chrome&path=/&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&security=reality&serviceName=snob-grpc-de&sid=e5f6a1b2&sni=maps.apple.com&type=grpc#%F0%9F%8C%90%20Kazakhstan%20%7C%20Reality%20%7C%20%40anonymouskeys
