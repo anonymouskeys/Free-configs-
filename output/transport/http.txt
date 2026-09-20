@@ -1,4 +1,3 @@
-vless://dbbcfdbd-89a0-0032-9161-a57271d42474@161.104.38.98:443?encryption=none&fp=chrome&path=/assets&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&security=reality&sid=8ba6e72ee60667f6&sni=donatov.net&type=http#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://monacoVPN@172.65.111.43:22?fp=chrome&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.51.119:443?security=tls&type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@dashboard-tr-gameservice.iramnew4.ir:32306?type=http#%F0%9F%8C%8D%20Unknown%20%7C%20HTTP%20%7C%20%40anonymouskeys
