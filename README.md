@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://t.me/anonymouskeys"><strong>Join @anonymouskeys on Telegram</strong></a> for fresh subscriptions, updates and announcements.</p>
 
-![Configurations](https://img.shields.io/badge/configurations-25,890-brightgreen)
+![Configurations](https://img.shields.io/badge/configurations-26,264-brightgreen)
 ![Sources](https://img.shields.io/badge/sources-7%2F7-blue)
 ![Update schedule](https://img.shields.io/badge/updated-every%204%20hours-purple)
 
@@ -17,7 +17,7 @@
 
 | Collection | Configurations | Subscription URL |
 |---|---:|---|
-| All configurations | `25,890` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/all.txt) |
+| All configurations | `26,264` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/all.txt) |
 
 Copy the **Copy subscription** link address and paste it into a compatible client. The files contain one share URI per line.
 
@@ -25,28 +25,28 @@ Copy the **Copy subscription** link address and paste it into a compatible clien
 
 | Protocol | Configurations | Subscription URL |
 |---|---:|---|
-| Hysteria / Hysteria 2 | `121` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/hysteria.txt) |
-| Hysteria 2 | `121` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/hysteria2.txt) |
-| Shadowsocks | `402` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/ss.txt) |
-| Trojan | `690` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/trojan.txt) |
-| VLESS | `23,886` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/vless.txt) |
-| VMess | `791` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/vmess.txt) |
+| Hysteria / Hysteria 2 | `115` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/hysteria.txt) |
+| Hysteria 2 | `115` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/hysteria2.txt) |
+| Shadowsocks | `388` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/ss.txt) |
+| Trojan | `694` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/trojan.txt) |
+| VLESS | `24,284` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/vless.txt) |
+| VMess | `783` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/protocol/vmess.txt) |
 
 ## Subscriptions by transport and security
 
 | Category | Configurations | Subscription URL |
 |---|---:|---|
 | gRPC | `1,569` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/grpc.txt) |
-| HTTP | `5` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/http.txt) |
-| HTTP Upgrade | `71` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/httpupgrade.txt) |
-| QUIC | `118` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/quic.txt) |
-| RAW | `396` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/raw.txt) |
-| REALITY Vision | `5,901` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/reality-vision.txt) |
-| REALITY | `8,725` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/reality.txt) |
-| TCP | `8,183` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/tcp.txt) |
-| Unknown | `1,358` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/unknown.txt) |
-| WebSocket | `13,127` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/ws.txt) |
-| XHTTP | `1,063` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/xhttp.txt) |
+| HTTP | `4` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/http.txt) |
+| HTTP Upgrade | `74` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/httpupgrade.txt) |
+| QUIC | `112` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/quic.txt) |
+| RAW | `426` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/raw.txt) |
+| REALITY Vision | `6,049` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/reality-vision.txt) |
+| REALITY | `8,939` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/reality.txt) |
+| TCP | `8,272` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/tcp.txt) |
+| Unknown | `1,401` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/unknown.txt) |
+| WebSocket | `13,288` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/ws.txt) |
+| XHTTP | `1,118` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/transport/xhttp.txt) |
 
 ## Subscriptions by location
 
@@ -57,64 +57,64 @@ Country classification is inferred only from profile labels supplied by the sour
 
 | Location | Configurations | Subscription URL |
 |---|---:|---|
-| 🇦🇪 United Arab Emirates | `99` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ae.txt) |
-| 🇦🇷 Argentina | `27` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ar.txt) |
-| 🇦🇹 Austria | `226` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/at.txt) |
-| 🇦🇺 Australia | `123` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/au.txt) |
-| 🇧🇪 Belgium | `68` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/be.txt) |
-| 🇧🇬 Bulgaria | `143` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/bg.txt) |
-| 🇧🇷 Brazil | `183` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/br.txt) |
-| 🇨🇦 Canada | `1,160` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ca.txt) |
-| 🇨🇭 Switzerland | `660` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ch.txt) |
-| 🇨🇱 Chile | `23` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/cl.txt) |
-| 🇨🇳 China | `111` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/cn.txt) |
-| 🇨🇿 Czechia | `201` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/cz.txt) |
-| 🇩🇪 Germany | `464` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/de.txt) |
-| 🇩🇰 Denmark | `81` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/dk.txt) |
-| 🇪🇪 Estonia | `369` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ee.txt) |
-| 🇪🇸 Spain | `292` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/es.txt) |
-| 🇫🇮 Finland | `170` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/fi.txt) |
-| 🇫🇷 France | `159` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/fr.txt) |
-| 🇬🇧 United Kingdom | `199` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/gb.txt) |
-| 🇬🇷 Greece | `62` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/gr.txt) |
-| 🇭🇰 Hong Kong | `144` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/hk.txt) |
-| 🇭🇷 Croatia | `32` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/hr.txt) |
-| 🇭🇺 Hungary | `178` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/hu.txt) |
-| 🇮🇩 Indonesia | `51` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/id.txt) |
-| 🇮🇪 Ireland | `114` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ie.txt) |
-| 🇮🇱 Israel | `51` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/il.txt) |
-| 🇮🇳 India | `140` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/in.txt) |
+| 🇦🇪 United Arab Emirates | `95` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ae.txt) |
+| 🇦🇷 Argentina | `28` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ar.txt) |
+| 🇦🇹 Austria | `236` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/at.txt) |
+| 🇦🇺 Australia | `126` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/au.txt) |
+| 🇧🇪 Belgium | `70` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/be.txt) |
+| 🇧🇬 Bulgaria | `145` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/bg.txt) |
+| 🇧🇷 Brazil | `184` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/br.txt) |
+| 🇨🇦 Canada | `1,162` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ca.txt) |
+| 🇨🇭 Switzerland | `658` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ch.txt) |
+| 🇨🇱 Chile | `25` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/cl.txt) |
+| 🇨🇳 China | `112` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/cn.txt) |
+| 🇨🇿 Czechia | `203` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/cz.txt) |
+| 🇩🇪 Germany | `497` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/de.txt) |
+| 🇩🇰 Denmark | `86` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/dk.txt) |
+| 🇪🇪 Estonia | `379` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ee.txt) |
+| 🇪🇸 Spain | `295` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/es.txt) |
+| 🇫🇮 Finland | `193` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/fi.txt) |
+| 🇫🇷 France | `160` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/fr.txt) |
+| 🇬🇧 United Kingdom | `211` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/gb.txt) |
+| 🇬🇷 Greece | `60` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/gr.txt) |
+| 🇭🇰 Hong Kong | `154` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/hk.txt) |
+| 🇭🇷 Croatia | `31` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/hr.txt) |
+| 🇭🇺 Hungary | `180` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/hu.txt) |
+| 🇮🇩 Indonesia | `52` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/id.txt) |
+| 🇮🇪 Ireland | `118` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ie.txt) |
+| 🇮🇱 Israel | `52` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/il.txt) |
+| 🇮🇳 India | `143` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/in.txt) |
 | 🇮🇸 Iceland | `22` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/is.txt) |
-| 🇮🇹 Italy | `73` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/it.txt) |
-| 🇯🇵 Japan | `173` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/jp.txt) |
-| 🇰🇷 South Korea | `63` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/kr.txt) |
-| 🇰🇿 Kazakhstan | `157` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/kz.txt) |
-| 🇱🇹 Lithuania | `493` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/lt.txt) |
-| 🇱🇺 Luxembourg | `41` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/lu.txt) |
-| 🇱🇻 Latvia | `392` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/lv.txt) |
-| 🇲🇩 Moldova | `85` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/md.txt) |
-| 🇲🇽 Mexico | `38` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/mx.txt) |
-| 🇲🇾 Malaysia | `47` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/my.txt) |
-| 🇳🇱 Netherlands | `743` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/nl.txt) |
-| 🇳🇴 Norway | `137` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/no.txt) |
+| 🇮🇹 Italy | `67` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/it.txt) |
+| 🇯🇵 Japan | `192` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/jp.txt) |
+| 🇰🇷 South Korea | `70` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/kr.txt) |
+| 🇰🇿 Kazakhstan | `158` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/kz.txt) |
+| 🇱🇹 Lithuania | `494` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/lt.txt) |
+| 🇱🇺 Luxembourg | `42` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/lu.txt) |
+| 🇱🇻 Latvia | `391` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/lv.txt) |
+| 🇲🇩 Moldova | `84` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/md.txt) |
+| 🇲🇽 Mexico | `37` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/mx.txt) |
+| 🇲🇾 Malaysia | `53` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/my.txt) |
+| 🇳🇱 Netherlands | `782` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/nl.txt) |
+| 🇳🇴 Norway | `138` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/no.txt) |
 | 🇳🇿 New Zealand | `4` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/nz.txt) |
 | 🇵🇭 Philippines | `92` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ph.txt) |
-| 🇵🇱 Poland | `156` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/pl.txt) |
-| 🇵🇹 Portugal | `38` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/pt.txt) |
-| 🇷🇴 Romania | `101` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ro.txt) |
+| 🇵🇱 Poland | `209` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/pl.txt) |
+| 🇵🇹 Portugal | `44` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/pt.txt) |
+| 🇷🇴 Romania | `99` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ro.txt) |
 | 🇷🇸 Serbia | `67` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/rs.txt) |
-| 🇷🇺 Russia | `694` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ru.txt) |
-| 🇸🇪 Sweden | `140` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/se.txt) |
-| 🇸🇬 Singapore | `136` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/sg.txt) |
-| 🇸🇮 Slovenia | `48` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/si.txt) |
-| 🇸🇰 Slovakia | `43` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/sk.txt) |
-| 🇹🇭 Thailand | `71` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/th.txt) |
-| 🇹🇷 Türkiye | `96` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/tr.txt) |
-| 🇹🇼 Taiwan | `206` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/tw.txt) |
+| 🇷🇺 Russia | `688` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ru.txt) |
+| 🇸🇪 Sweden | `169` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/se.txt) |
+| 🇸🇬 Singapore | `143` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/sg.txt) |
+| 🇸🇮 Slovenia | `45` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/si.txt) |
+| 🇸🇰 Slovakia | `42` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/sk.txt) |
+| 🇹🇭 Thailand | `72` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/th.txt) |
+| 🇹🇷 Türkiye | `103` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/tr.txt) |
+| 🇹🇼 Taiwan | `203` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/tw.txt) |
 | 🇺🇦 Ukraine | `140` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/ua.txt) |
-| 🌍 Unknown | `14,384` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/unknown.txt) |
-| 🇺🇸 United States | `1,390` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/us.txt) |
-| 🇻🇳 Vietnam | `38` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/vn.txt) |
+| 🌍 Unknown | `14,465` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/unknown.txt) |
+| 🇺🇸 United States | `1,402` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/us.txt) |
+| 🇻🇳 Vietnam | `40` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/vn.txt) |
 | 🇿🇦 South Africa | `52` | [Copy subscription](https://raw.githubusercontent.com/anonymouskeys/Free-configs-/main/output/countries/za.txt) |
 
 </details>
@@ -123,14 +123,14 @@ Country classification is inferred only from profile labels supplied by the sour
 
 | Metric | Value |
 |---|---:|
-| Last successful update | `2026-09-20T22:26:22Z` |
+| Last successful update | `2026-09-21T04:55:26Z` |
 | Configured sources | `7` |
 | Successful sources | `7` |
 | Failed sources | `0` |
-| Downloaded / parsed configurations | `31,001` |
-| Duplicate configurations removed | `5,111` |
+| Downloaded / parsed configurations | `31,594` |
+| Duplicate configurations removed | `5,330` |
 | Invalid configurations rejected | `75` |
-| Published configurations | `25,890` |
+| Published configurations | `26,264` |
 
 ## Telegram community
 

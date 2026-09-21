@@ -1,3 +1,4 @@
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@103.117.141.124:2060?insecure=1&sni=mlxy1.mangshe.xyz#%F0%9F%8C%90%20Israel%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#%F0%9F%8C%90%20Israel%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443/?sni=grape-turbo-fr.roxa.org#%F0%9F%8C%90%20Israel%20%7C%20QUIC%20%7C%20%40anonymouskeys
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?amp%3BheaderType=none&amp%3Bsni=api.avito.ru&amp%3Btype=tcp&security=tls#%F0%9F%8C%90%20Israel%20%7C%20TROJAN%20%7C%20%40anonymouskeys
