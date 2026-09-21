@@ -1,5 +1,6 @@
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Portugal%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Portugal%20%7C%20QUIC%20%7C%20%40anonymouskeys
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.174.3:443?allowInsecure=0&encryption=none&fp=chrome&host=amoosamiii.net&insecure=0&path=/poiuyws&security=tls&sni=JoinProxyVPN11.amoosamiii.net&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
+vless://592ead02-6836-4987-a5c3-c75cea64948f@144.31.156.247:5432?flow=xtls-rprx-vision&fp=android&headerType=none&security=tls#%F0%9F%8C%90%20Portugal%20%7C%20VLESS%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://fd0718a1-c463-4297-8ba9-a7f4b93ce436@147.45.234.51:443?amp%3Bencryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bfp=chrome&amp%3BheaderType=none&amp%3Bpbk=GjFTD96cethyxcRuToHUwv741QoDB9-V7LRsxEh6jTU&amp%3Bsid=ab1cd2&amp%3Bsni=www.vk.com&amp%3Btype=tcp&security=reality#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@152.233.62.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&security=reality&sid=87922049&sni=api-maps.yandex.ru&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
