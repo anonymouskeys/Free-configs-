@@ -4,7 +4,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.8.198:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.141.124:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.142.78:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.142.91:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.147.65:50099#%F0%9F%8C%90%20Taiwan%20%7C%20SS%20%7C%20%40anonymouskeys
@@ -37,7 +36,6 @@ vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@103.137.22.71:8443?fp=chrome&header
 vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.201:8880?headerType=none&host=www.udemy.com.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK%3Fed%3D2560%26https://t.me/WangCai2&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://7b15ec5b-8aea-4742-963e-78b18363c2d4@104.155.197.135:12069?flow=xtls-rprx-vision&fp=firefox&pbk=KrOnvDlG7ZH3x6uwWqfhnyIr-L8yjCtLm9MBkQCuJCw&security=reality&sid=a4ccdd0ffbb8ab3f&sni=www.amd.com&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.130:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3a62a0c2-ba80-43a9-b757-9aca88b0552e@104.199.134.231:28364?flow=xtls-rprx-vision&fp=firefox&pbk=NPhCET0GkjSZuKg4vWsPHLvjYGHW9w99Ucxvavu0-1I&security=reality&sid=7241c359c2dfab&sni=www.sony.com&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://5859f6a7-cda1-47c2-8353-fcdee281f31d@104.199.219.172:40800?flow=xtls-rprx-vision&fp=firefox&pbk=zohUbvPLKVBwzuDmZNsaXXFYZSKA9_xEhdUyURChrgo&security=reality&sid=186e4c2732d61a3d&sni=www.intel.com&type=tcp#%F0%9F%8C%90%20Taiwan%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.201:8880?host=www.udemy.com.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK%3Fed%3D2560%26https://t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#%F0%9F%8C%90%20Taiwan%20%7C%20WebSocket%20%7C%20%40anonymouskeys
