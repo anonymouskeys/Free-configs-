@@ -1,5 +1,5 @@
-hysteria2://3a92b39a-5f02-415e-a908-783ec320e83f@104.165.205.41:8443?fp=random&sni=speedtestmark.com#%F0%9F%8C%90%20Latvia%20%7C%20QUIC%20%7C%20%40anonymouskeys
-hysteria2://3a92b39a-5f02-415e-a908-783ec320e83f@104.165.205.67:8443?fp=random&sni=speedtestmark.com#%F0%9F%8C%90%20Latvia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?insecure=1&sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Latvia%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Latvia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?alpn=h3&insecure=1&sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Latvia%20%7C%20QUIC%20%7C%20%40anonymouskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%F0%9F%8C%90%20Latvia%20%7C%20SS%20%7C%20%40anonymouskeys
 ss://YWVzLTEyOC1nY206bi1QN3AzVms3dktMX3JTdWxmd0VTUQ@zeneco.ir:1468#%F0%9F%8C%90%20Latvia%20%7C%20SS%20%7C%20%40anonymouskeys

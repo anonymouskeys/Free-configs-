@@ -1,4 +1,6 @@
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?insecure=1#%F0%9F%8C%90%20Hungary%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@103.117.141.103:2060?insecure=1&sni=mlxy.mangshe.xyz#%F0%9F%8C%90%20Hungary%20%7C%20QUIC%20%7C%20%40anonymouskeys
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#%F0%9F%8C%90%20Hungary%20%7C%20QUIC%20%7C%20%40anonymouskeys
+trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#%F0%9F%8C%90%20Hungary%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?allow_insecure=0&fp=android&headerType=none&path=/&security=tls&sni=hu2.vpnjantit.com&type=tcp#%F0%9F%8C%90%20Hungary%20%7C%20TCP%20%7C%20%40anonymouskeys
 trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?allowInsecure=0&fp=android&headerType=none&insecure=0&security=tls&sni=hu2.vpnjantit.com&type=tcp#%F0%9F%8C%90%20Hungary%20%7C%20TCP%20%7C%20%40anonymouskeys
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.18.9.122:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20Hungary%20%7C%20WebSocket%20%7C%20%40anonymouskeys
