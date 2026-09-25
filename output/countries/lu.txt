@@ -1,5 +1,6 @@
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ru1.sferavpn.pro#%F0%9F%8C%90%20Luxembourg%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#%F0%9F%8C%90%20Luxembourg%20%7C%20QUIC%20%7C%20%40anonymouskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%8C%90%20Luxembourg%20%7C%20SS%20%7C%20%40anonymouskeys
 vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@104.18.27.48:80?encryption=none&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&path=/&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.189.2.206:8443?fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%8C%90%20Luxembourg%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@141.227.168.83:7009?encryption=none&fp=qq&headerType=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&security=reality&sni=yahoo.com&type=tcp#%F0%9F%8C%90%20Luxembourg%20%7C%20Reality%20%7C%20%40anonymouskeys
