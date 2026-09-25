@@ -1,6 +1,5 @@
 hysteria2://RQBXe4kpsRant_2u1PzdneBOPuCSwUSI@43.167.208.94:443?insecure=1#%F0%9F%8C%90%20Portugal%20%7C%20QUIC%20%7C%20%40anonymouskeys
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Portugal%20%7C%20QUIC%20%7C%20%40anonymouskeys
-vless://2be3dc65-f106-4ca2-a321-724bd2e48da6@104.143.223.231:2085?encryption=none&headerType=none&security=none&serviceName=vless&type=grpc#%F0%9F%8C%90%20Portugal%20%7C%20gRPC%20%7C%20%40anonymouskeys
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?host=Fastapi.Org&path=/&type=ws#%F0%9F%8C%90%20Portugal%20%7C%20WebSocket%20%7C%20%40anonymouskeys
 vless://fd0718a1-c463-4297-8ba9-a7f4b93ce436@147.45.234.51:443?amp%3Bencryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bfp=chrome&amp%3BheaderType=none&amp%3Bpbk=GjFTD96cethyxcRuToHUwv741QoDB9-V7LRsxEh6jTU&amp%3Bsid=ab1cd2&amp%3Bsni=www.vk.com&amp%3Btype=tcp&security=reality#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20%7C%20%40anonymouskeys
 vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@152.233.62.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&security=reality&sid=87922049&sni=api-maps.yandex.ru&type=tcp#%F0%9F%8C%90%20Portugal%20%7C%20Reality%20Vision%20%7C%20%40anonymouskeys
